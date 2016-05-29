@@ -154,7 +154,7 @@
 		"font"			"solFontBold36"
 		"fgcolor"		"HudShadow"
 		"xpos"			"460"
-		"ypos"			"296" // omp -- -9 Mac fix.
+		"ypos"			"295" // omp -- -9 Mac fix.
 		"zpos"			"5"
 		"wide"			"63"
 		"tall"			"56" // omp -- +18 Mac fix.
