@@ -68,8 +68,8 @@
 	}
 	"ConsoleButton"
 	{
-		"label" "Console"
-		"command" "engine con_enable 1;toggleconsole"
+		"label" "Artwork"
+		"command" "engine con_enable 1;toggleconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artist's deviantart: xmindblowx.deviantart.com"
 		"tooltip" "Open/Close Console"
 	} 
 	"DEMOUI"
