@@ -139,7 +139,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
-		"fgcolor"		"White"
+		"fgcolor"		"Black"
 		"textAlignment"		"Left"
 		"dulltext"		"0"
 		"brighttext"		"0"

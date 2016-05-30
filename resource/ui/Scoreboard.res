@@ -32,7 +32,7 @@
 		"xpos"			"c-270"		
 		"xpos_minmode"		"r267"		//"c33"
 		"ypos"			"r379"
-		"ypos_minmode"		"r424"
+		"ypos_minmode"		"r374"
 		"zpos"			"-1"
 		"wide"			"268"
 		"wide_minmode"		"248"
@@ -81,7 +81,7 @@
 		"xpos"			"c-270"
 		"xpos_minmode"		"r267"	//"c33
 		"ypos"			"r391"
-		"ypos_minmode"		"r331"
+		"ypos_minmode"		"r381"
 		"zpos"			"21"
 		"wide"			"268"
 		"wide_minmode"		"248"
@@ -107,7 +107,7 @@
 		"xpos"			"c-61"
 		"xpos_minmode"		"r94"
 		"ypos"			"r418"
-		"ypos_minmode"		"r358"
+		"ypos_minmode"		"r408"
 		"zpos"			"22"
 		"wide"			"52"
 		"tall"			"50"
@@ -121,10 +121,10 @@
 		}
 	}
 
-	"BlueTeamLabel"
+	"BlueTeamLabel1"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"BlueTeamLabel"
+		"fieldName"		"BlueTeamLabel1"
 		"font"			"solFontBold14"
 		"labelText"		"%blueteamname%"
 		"fgcolor"		"White"
@@ -132,7 +132,7 @@
 		"xpos"			"c-251"
 		"xpos_minmode"		"r263"
 		"ypos"			"r392"
-		"ypos_minmode"		"r332"
+		"ypos_minmode"		"r382"
 		"zpos"			"24"
 		"wide"			"100"
 		"tall"			"20"
@@ -141,6 +141,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"visible_minmode"		"1"
 
 		if_mvm
 		{
@@ -158,7 +159,7 @@
 		"xpos"			"c-84"
 		"xpos_minmode"		"r117"
 		"ypos"			"r400"
-		"ypos_minmode"		"r350"
+		"ypos_minmode"		"r390"
 		"zpos"			"24"
 		"wide"			"99"
 		"tall"			"37"
@@ -181,7 +182,7 @@
 		"xpos"			"c-237"
 		"xpos_minmode"		"r239"
 		"ypos"			"r389"
-		"ypos_minmode"		"r329"
+		"ypos_minmode"		"r379"
 		"zpos"			"24"
 		"wide"			"160"
 		"wide_minmode"		"140"
@@ -201,7 +202,7 @@
 		"xpos"			"c2"
 		"xpos_minmode"		"r267"
 		"ypos"			"r391"
-		"ypos_minmode"		"r167"
+		"ypos_minmode"		"r217"
 		"zpos"			"21"
 		"wide"			"268"
 		"wide_minmode"		"248"
@@ -240,10 +241,10 @@
 			"visible"		"0"
 		}
 	}												
-	"RedTeamLabel"
+	"RedTeamLabel1"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"RedTeamLabel"
+		"fieldName"		"RedTeamLabel1"
 		"font"			"solFontBold14"
 		"labelText"		"%redteamname%"
 		"fgcolor"		"White"
@@ -252,8 +253,9 @@
 		"xpos"			"c150"
 		"xpos_minmode"		"r263"
 		"ypos"			"r392"
-		"ypos_minmode"		"r168"
+		"ypos_minmode"		"r218"
 		"zpos"			"24"
+		"wide"			"100"
 		"wide"			"100"
 		"tall"			"20"
 		"tall_minmode"		"20"
@@ -278,7 +280,7 @@
 		"xpos"			"c-14"
 		"xpos_minmode"		"r117"
 		"ypos"			"r400"
-		"ypos_minmode"		"r167"
+		"ypos_minmode"		"r227"
 		"zpos"			"24"
 		"wide"			"99"
 		"tall"			"37"
@@ -302,7 +304,7 @@
 		"xpos"			"c77"
 		"xpos_minmode"		"r239"
 		"ypos"			"r389"
-		"ypos_minmode"		"r165"
+		"ypos_minmode"		"r215"
 		"zpos"			"24"
 		"wide"			"160"
 		"wide_minmode"		"140"
@@ -326,7 +328,7 @@
 		"xpos"			"157"
 		"xpos_minmode"	"587"
 		"ypos"			"74"
-		"ypos_minmode"	"134"
+		"ypos_minmode"	"84"
 		"wide"			"470"
 		"tall"			"15"
 		"visible"		"1"
@@ -352,7 +354,7 @@
 		"xpos"			"158"
 		"xpos_minmode"	"587"
 		"ypos"			"74"
-		"ypos_minmode"	"135"
+		"ypos_minmode"	"85"
 		"zpos"			"-1"
 		"wide"			"470"
 		"tall"			"15"
@@ -386,7 +388,7 @@
 		"xpos"			"c-265"
 		"xpos_minmode"		"r267"
 		"ypos"			"r470"
-		"ypos_minmode"		"r357"
+		"ypos_minmode"		"r407"
 		"zpos"			"8"
 		"wide"			"530"
 		"wide_minmode"		"300"
@@ -417,7 +419,7 @@
 		"xpos"			"c-270"
 		"xpos_minmode"		"r266"
 		"ypos"			"r384"
-		"ypos_minmode"		"r324"
+		"ypos_minmode"		"r374"
 		"zpos"			"20"
 		"wide"			"268"
 		"wide_minmode"		"246"
@@ -443,7 +445,7 @@
 		"xpos"			"c2"
 		"xpos_minmode"		"r266"
 		"ypos"			"r384"
-		"ypos_minmode"		"r250"
+		"ypos_minmode"		"r300"
 		"zpos"			"20"
 		"wide"			"268"
 		"wide_minmode"		"246"
@@ -487,7 +489,7 @@
 		"xpos"			"157"
 		"xpos_minmode"	"587"
 		"ypos"			"304"
-		"ypos_minmode"	"410"
+		"ypos_minmode"	"360"
 		"zpos"			"4"
 		"wide"			"540"
 		"wide_minmode"	"248"
@@ -513,7 +515,7 @@
 		"xpos"			"158"
 		"xpos_minmode"	"587"
 		"ypos"			"304"
-		"ypos_minmode"	"411"
+		"ypos_minmode"	"361"
 		"zpos"			"4"
 		"wide"			"540"
 		"wide_minmode"	"248"
@@ -668,7 +670,7 @@
 			"xpos"			"c-83"
 			"xpos_minmode"		"r137"
 			"ypos"			"r123"
-			"ypos_minmode"		"r111"
+			"ypos_minmode"		"r161"
 			"zpos"			"3"
 			"wide"			"165"
 			"wide_minmode"		"110"
@@ -891,7 +893,7 @@
 		"xpos"			"0"
 		"xpos_minmode"			"50"
 		"ypos"			"167"
-		"ypos_minmode"		"141"
+		"ypos_minmode"		"91"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"480"
@@ -1459,6 +1461,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1513,6 +1516,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1725,6 +1729,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1780,6 +1785,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1808,6 +1814,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1863,6 +1870,8 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1891,6 +1900,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
@@ -1950,6 +1960,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			"visible_minmode"		"0"
 
 			if_mvm
 			{
