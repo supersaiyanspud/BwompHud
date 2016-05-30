@@ -137,7 +137,7 @@
 		"fieldName"		"AmmoNoClip"
 		"font"			"solFontBold36"
 		"fgcolor"		"White"
-		"xpos"			"459"
+		"xpos"			"469"
 		"ypos"			"294" // omp -- -9 Mac fix.
 		"zpos"			"5"
 		"wide"			"63"
@@ -153,7 +153,7 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"solFontBold36"
 		"fgcolor"		"HudShadow"
-		"xpos"			"460"
+		"xpos"			"470"
 		"ypos"			"295" // omp -- -9 Mac fix.
 		"zpos"			"5"
 		"wide"			"63"
