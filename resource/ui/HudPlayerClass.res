@@ -18,7 +18,7 @@
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
 		"xpos"			"25"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
+		"ypos"			"r72"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"75"
 		"tall"			"75"
