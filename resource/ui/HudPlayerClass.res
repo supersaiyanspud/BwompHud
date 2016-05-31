@@ -101,7 +101,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"130"
-		"ypos"			"r180"
+		"ypos"			"r170"
 		"zpos"			"2"		
 		"wide"			"80"
 		"tall"			"170"
