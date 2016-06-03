@@ -70,7 +70,7 @@
 	{
 		"label" "Artwork"
 		"command" "engine con_enable 1;toggleconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artist's deviantart: xmindblowx.deviantart.com"
-		"tooltip" "Open/Close Console"
+		"tooltip" "Check out more from the artist!"
 	} 
 	"DEMOUI"
 	{
