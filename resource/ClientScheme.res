@@ -6287,6 +6287,39 @@ Scheme
 			}
 		}
 		
+		underlineborder
+		{
+			"inset" "0 0 0 0"
+			Right
+			{
+				"1"
+				{
+					"color" "White"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "White"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "White"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "White"
+					"offset" "0 0"
+				}
+				"5"
+				{
+					"color" "White"
+					"offset" "0 0"
+				}
+			}
+		}
+		
 		ScrollBarButtonBorder
 		{
 			"inset" "0 0 0 0"
