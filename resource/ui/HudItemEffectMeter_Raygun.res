@@ -52,7 +52,7 @@ HudItemEffectMeter
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
-		"xpos"			"0"
+		"xpos"			"-5"
 		"ypos"			"1"
 		"zpos"			"2"
 		"wide"			"120"

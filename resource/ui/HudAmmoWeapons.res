@@ -137,14 +137,14 @@
 		"fieldName"		"AmmoNoClip"
 		"font"			"solFontBold36"
 		"fgcolor"		"White"
-		"xpos"			"469"
+		"xpos"			"489"
 		"ypos"			"294" // omp -- -9 Mac fix.
 		"zpos"			"5"
 		"wide"			"63"
 		"tall"			"56" // omp -- +18 Mac fix.
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"	
+		"textAlignment"	"center"	
 		"labelText"		"%Ammo%"
 	}	
 	"AmmoNoClipShadow"
@@ -153,14 +153,14 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"solFontBold36"
 		"fgcolor"		"HudShadow"
-		"xpos"			"470"
+		"xpos"			"490"
 		"ypos"			"295" // omp -- -9 Mac fix.
 		"zpos"			"5"
 		"wide"			"63"
 		"tall"			"56" // omp -- +18 Mac fix.
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"	
+		"textAlignment"	"center"	
 		"labelText"		"%Ammo%"
 	}									
 }

@@ -2007,10 +2007,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ChangeServerButton"
-		"xpos"			"103"
+		"xpos"			"77"
 		"ypos"			"r390"
 		"zpos"			"11"
-		"wide"			"95"
+		"wide"			"120"
 		"tall"			"20"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
@@ -2018,9 +2018,9 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"-10"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"115"
+			"wide"			"120"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -2038,16 +2038,15 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	""
-			"border_armed"		""
+			"border_armed"		"underlineborder"
 			"paintbackground"	"0"
 			
-			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Flavor"
-			"depressedFgColor_override" "255 255 255 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override"   "White"
+			"depressedFgColor_override" "75 125 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2129,10 +2128,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"QuickplayChangeButton"
-		"xpos"			"118"
+		"xpos"			"77"
 		"ypos"			"r410"
 		"zpos"			"11"
-		"wide"			"80"
+		"wide"			"120"
 		"tall"			"20"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
@@ -2140,9 +2139,9 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"-10"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"95"
+			"wide"			"120"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -2160,16 +2159,15 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	""
-			"border_armed"		""
+			"border_armed"		"underlineborder"
 			"paintbackground"	"0"
 			
-			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Flavor"
-			"depressedFgColor_override" "255 255 255 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override"   "White"
+			"depressedFgColor_override" "75 125 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2498,10 +2496,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ResumeGameButton"
-		"xpos"			"105"
+		"xpos"			"77"
 		"ypos"			"r359"
 		"zpos"			"11"
-		"wide"			"90"
+		"wide"			"120"
 		"tall"			"22"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
@@ -2510,9 +2508,9 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"-10"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"115"
+			"wide"			"120"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -2530,16 +2528,15 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	""
-			"border_armed"		""
+			"border_armed"		"underlineborder"
 			"paintbackground"	"0"
 			
-			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Green"
-			"depressedFgColor_override" "255 255 255 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override"   "White"
+			"depressedFgColor_override" "75 125 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2621,10 +2618,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"DisconnectButton"
-		"xpos"			"122"
+		"xpos"			"77"
 		"ypos"			"r80"
 		"zpos"			"11"
-		"wide"			"75"
+		"wide"			"120"
 		"tall"			"22"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
@@ -2633,9 +2630,9 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"-10"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"95"
+			"wide"			"120"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -2653,16 +2650,15 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	""
-			"border_armed"		""
+			"border_armed"		"underlineborder"
 			"paintbackground"	"0"
 			
-			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Negative"
-			"depressedFgColor_override" "255 255 255 255"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override"   "White"
+			"depressedFgColor_override" "75 125 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -3179,52 +3175,42 @@
 	
 	"TF2SettingsButton"
 	{
-		"ControlName"	"EditablePanel"
+		"ControlName"	"CExImageButton"
 		"fieldName"		"TF2SettingsButton"
 		"xpos"			"77"			
 		"ypos"			"r290"
 		"zpos"			"11"
 		"wide"			"120"
 		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"3"
 		"visible"		"1"
-		"PaintBackgroundType"	"2"
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"120"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		"#MMenu_AdvOptions"
-			"font"			"solFontBold14"
-			"textAlignment"	"west"
-			"textinsetx"	"25"
-			"use_proportional_insets" "1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"Command"		"opentf2options"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			
-			"border_default"	""
-			"border_armed"		"underlineborder"
-			"paintbackground"	"0"
-			
-			"defaultFgColor_override" "White"
-			"armedFgColor_override"   "White"
-			"depressedFgColor_override" "75 125 255 255"
-			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"235 226 202 255"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#MMenu_AdvOptions"
+		"font"			"solFontBold14"
+		"textAlignment"	"west"
+		"textinsetx"	"25"
+		"use_proportional_insets" "1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"Command"		"opentf2options"
 
-		}
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"border_default"	""
+		"border_armed"		"underlineborder"
+		"paintbackground"	"0"
+		
+		"defaultFgColor_override" "White"
+		"armedFgColor_override"   "White"
+		"depressedFgColor_override" "75 125 255 255"
+		
+		"image_drawcolor"	"117 107 94 255"
+		"image_armedcolor"	"235 226 202 255"
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -3238,55 +3224,45 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}				
-	}		
-	
+	}	
 	"SettingsButton"
 	{
-		"ControlName"	"EditablePanel"
+		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButton"
-		"xpos"			"77"			
+		"xpos"			"77"				
 		"ypos"			"r310"
 		"zpos"			"11"
 		"wide"			"120"
 		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"3"
 		"visible"		"1"
-		"PaintBackgroundType"	"2"
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"120"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		"Options"
-			"font"			"solFontBold14"
-			"textAlignment"	"west"
-			"textinsetx"	"25"
-			"use_proportional_insets" "1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"Command"		"openoptionsdialog"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			
-			"border_default"	""
-			"border_armed"		"underlineborder"
-			"paintbackground"	"0"
-			
-			"defaultFgColor_override" "White"
-			"armedFgColor_override"   "White"
-			"depressedFgColor_override" "75 125 255 255"
-			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"235 226 202 255"
-		}
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"Options"
+		"font"			"solFontBold14"
+		"textAlignment"	"west"
+		"textinsetx"	"25"
+		"use_proportional_insets" "1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
+		"Command"		"OpenOptionsDialog"
+
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"border_default"	""
+		"border_armed"		"underlineborder"
+		"paintbackground"	"0"
+		
+		"defaultFgColor_override" "White"
+		"armedFgColor_override"   "White"
+		"depressedFgColor_override" "75 125 255 255"
+		
+		"image_drawcolor"	"117 107 94 255"
+		"image_armedcolor"	"235 226 202 255"
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -3300,8 +3276,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}			
-	}		
-	
+	}	
 	"BackToReplaysButton"
 	{
 		"ControlName"	"CExImageButton"

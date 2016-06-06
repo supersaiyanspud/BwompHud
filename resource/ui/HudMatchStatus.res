@@ -259,7 +259,7 @@
 			"font"			"HudFontMediumSmall"
 			"fgcolor"		"White"
 			"xpos"			"27"
-			"ypos"			"0"
+			"ypos"			"5"
 			"zpos"			"3"
 			"wide"			"45"
 			"tall"			"15"

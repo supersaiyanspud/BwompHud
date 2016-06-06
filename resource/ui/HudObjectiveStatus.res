@@ -21,7 +21,7 @@
 		
         "TimePanelValue"
         {
-            "ControlName"		"CExLabel"
+            "ControlName"	"CExLabel"
             "fieldName"		"TimePanelValue"
             "font"			"solFontRegular21"
             "fgcolor"		"White"

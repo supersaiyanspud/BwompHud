@@ -10,7 +10,7 @@
 		"NegativeColor"			"Damage"
 		"delta_lifetime"		"3.0"
 		"delta_item_font"		"solFontRegular22"
-		"delta_item_font_big"	"solFontBold22"
+		"delta_item_font_big"	"solFontRegular22"
 	}
 
 	

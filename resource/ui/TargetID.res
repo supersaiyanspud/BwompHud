@@ -68,8 +68,8 @@
     {
         "ControlName"         "CExImageButton"
         "fieldName"           "BG"
-        "xpos"                "2"
-        "ypos"                "15"
+        "xpos"                "3"
+        "ypos"                "12"
         "zpos"                "-4"
         "wide"	          	  "640"
         "tall"		          "20"
@@ -87,8 +87,8 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
 		"font"			"solFontRegular14"				//Medium12
-		"xpos"			"57"
-		"ypos"			"18"	
+		"xpos"			"58"
+		"ypos"			"13"	
 		"zpos"			"2"
 		"wide"			"640"
 		"tall"			"14"
@@ -130,7 +130,7 @@
 		"fieldName"		"TargetDataLabel"
 		"font"			"solFontRegular11"
 		"xpos"			"57"
-		"ypos"			"2"		
+		"ypos"			"-1"		
 		"zpos"			"4"
 		"wide"			"250"
 		"tall"			"15"
@@ -150,7 +150,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
 		"xpos"			"2"		
-		"ypos"			"5"
+		"ypos"			"2"
 		"zpos"			"5"
 		"wide"			"49"
 		"tall"			"46"
@@ -168,7 +168,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
 		"xpos"			"54"
-		"ypos"			"6"		//19
+		"ypos"			"2"		//19
 		"zpos"			"12"
 		"wide"			"8"
 		"tall"			"8"
