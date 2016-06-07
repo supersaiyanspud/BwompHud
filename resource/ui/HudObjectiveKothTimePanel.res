@@ -5,7 +5,7 @@
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"BlueTimer"
 		"xpos"				"0"
-		"ypos"				"452"
+		"ypos"				"0"
 		"zpos"				"-1"
 		"wide"				"80"
 		"tall"				"50"
@@ -19,7 +19,7 @@
 			"font"			"solFontRegular21"
 			"fgcolor"			"White"
 			"xpos"			"0"
-			"ypos"			"0"
+			"ypos"			"11"
 			"zpos"			"-1"
 			"wide"			"80"
 			"tall"			"17"
@@ -36,7 +36,7 @@
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"RedTimer"
 		"xpos"				"80"
-		"ypos"				"452"
+		"ypos"				"0"
 		"zpos"				"-1"
 		"wide"				"80"
 		"tall"				"50"
@@ -50,7 +50,7 @@
 			"font"			"solFontRegular21"
 			"fgcolor"			"White"
 			"xpos"			"0"
-			"ypos"			"0"
+			"ypos"			"11"
 			"zpos"			"-1"
 			"wide"			"80"
 			"tall"			"17"
@@ -66,7 +66,7 @@
             "ControlName"	"ImagePanel"
             "fieldName"		"RedBG"
             "xpos"          "101"	//80
-            "ypos"          "450"
+            "ypos"          "9"
             "zpos"          "-8"
             "wide"          "39"	//80
             "tall"          "20"
@@ -79,7 +79,7 @@
             "ControlName"	"ImagePanel"
             "fieldName"		"BlueBG"
             "xpos"          "22"	//20
-            "ypos"          "450"
+            "ypos"          "9"
             "zpos"          "-8"
             "wide"          "39"	//80
             "tall"          "20"
@@ -96,7 +96,7 @@
             "zpos"          "-9"
             "wide"          "41"	//80
             "tall"          "22"
-            "fillcolor"		"DarkGray"	//255 255 255 150
+            "fillcolor"		"White"	//255 255 255 150
             "visible"		"0"
             "enabled"		"1"
         }
@@ -109,7 +109,7 @@
             "zpos"          "-9"
             "wide"          "41"	//80
             "tall"          "22"
-            "fillcolor"		"DarkGray"	//255 255 255 150
+            "fillcolor"		"White"	//255 255 255 150
             "visible"		"0"
             "enabled"		"1"
         }				
@@ -118,11 +118,12 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
 		"xpos"				"-1"
-		"ypos"				"449"
-		"zpos"				"-19"
+		"ypos"				"8"
+		"zpos"				"19"
 		"wide"				"41"
 		"tall"				"23"
-		"fillcolor"		    "Black"
+		"image"				"../hud/objectives_timepanel_active_bg"	
+		"scaleImage"		"1"	
 		"visible"			"1"
 		"enabled"			"1"
 	}
