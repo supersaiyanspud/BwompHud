@@ -3,13 +3,12 @@
 	"HudName"
 	{
 		"label" "BwompHUD"
-		"command" "engine con_enable 1; engine showconsole; clear; echo BWHUD + OMPHUD."
+		"command" "engine con_enable 1; showconsole; clear; echo BWHUD + OMPHUD."
 	}
 	"Desc"
 	{
 		"label" "Basically BWHUD + OMPHUD"
-		"command" "engine con_enable 1; engine showconsole; clear; echo Yep thats what it stands for"
-		"OnlyAtMenu" "1"
+		"command" "engine con_enable 1; showconsole; clear; echo Yep thats what it stands for"
 	}
 
 	"QuickplayButton"
@@ -69,7 +68,7 @@
 	"ConsoleButton"
 	{
 		"label" "Artwork"
-		"command" "engine con_enable 1;toggleconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artist's deviantart: xmindblowx.deviantart.com"
+		"command" "engine con_enable 1;showconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artist's deviantart: xmindblowx.deviantart.com.	 Also for more Scenic gifs like this check out imgur.com/gallery/g6XDZ"
 		"tooltip" "Check out more from the artist!"
 	} 
 	"DEMOUI"
@@ -104,7 +103,12 @@
 		"OnlyAtMenu" "1"
 		"tooltip" "Done for now?"
 	}
-	
+	"ReloadScheme"
+	{
+		"label" "ReloadScheme"
+		"command" "engine hud_reloadscheme"
+		"OnlyInGame" "1"
+	}
 	// These buttons get positioned by the MainMenuOverride.res	
 	"CreateServerButton"
 	{
