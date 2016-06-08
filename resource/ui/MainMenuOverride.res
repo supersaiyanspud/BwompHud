@@ -448,7 +448,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"button_streaming"
+				"image"			"replay/thumbnails/streams"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -474,10 +474,10 @@
 		"navLeft"		"WatchStreamButton"	// when a sub element can't nav left it will pass through this
 	}
 	
-	"QuestLogButton"
+	"QuestLogButton2"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"QuestLogButton"
+		"fieldName"		"QuestLogButton2"
 		"xpos"			"r134"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -509,8 +509,8 @@
 			"labelText"		""
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"command"		"questlog"
 			"textAlignment"	"west"
+			"command"	"questlog"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
@@ -538,7 +538,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"button_quests"
+				"image"			"replay/thumbnails/contracts"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -555,7 +555,7 @@
 			"zpos"			"10"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"0"
+			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 			"keyboardinputenabled" "0"
@@ -571,7 +571,7 @@
 				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"glyph_achievements"
+				"image"			"replay/thumbnails/contracts"
 				"scaleImage"	"1"
 				"drawcolor" "210 125 33 255"
 				"proportionaltoparent"	"1"
@@ -655,7 +655,7 @@
 				"tall"			"24"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"glyph_message"
+				"image"			"replay/thumbnails/news"
 				"scaleImage"	"1"
 			}
 		}
