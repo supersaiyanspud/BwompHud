@@ -1,1 +1,0 @@
-To replace the animated background with the sfm art you want, drag the vtf files of the photo you want and replace the files in materials/console. Then, change the names of the files to "background_2fort" and "background_2fort_widescreen" so that they overwrite the animated picture.
