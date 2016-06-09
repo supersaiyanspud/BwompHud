@@ -1,4 +1,4 @@
-*SpudHud*
+SpudHud
 SpudHud is a tf2 custom interface (Hud) that was created by me, Spud. 
 
 Editing 
