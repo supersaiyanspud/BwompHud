@@ -65,13 +65,16 @@
 		"command" "engine OpenSteamWorkshopDialog"
 		"tooltip" "Steam Workshop"
 	}
-	"ConsoleButton"
+	"CreditButton"
 	{
-		"label" "Artwork"
+		"label" "Credit"
 		"command" "engine con_enable 1;showconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artists deviantart: xmindblowx.deviantart.com.	
 		echo Also for more gifs like this, be sure check out imgur.com/gallery/g6XDZ!
-		echo Thanks to twitch.tv/table__cloth for the custom icons :>"
-		"tooltip" "Check out more from the artist!"
+		echo Thanks to twitch.tv/table__cloth for some of the custom icons :>
+		echo Thanks to freepik.com for some of the custom icons
+		echo Thanks to iconfinder.com/Re66y for some of the custom icons
+		echo Thanks to flaticon.com/authors/madebyoliver for some of the custom icons"
+		"tooltip" "Check out who made this hud look good"
 	} 
 	"DEMOUI"
 	{
