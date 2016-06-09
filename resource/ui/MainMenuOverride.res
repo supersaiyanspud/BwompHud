@@ -139,60 +139,61 @@
 		"fieldName"		"Background"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"0"	//f0
-		"tall"			"0"	//480
-		"visible"		"0"
-		"enabled"		"0"
+		"zpos"			"-200"
+		"wide"			"f0"	//f0
+		"tall"			"480"	//480
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			""
 		"scaleImage"	"1"
 		
 		if_halloween_0
 		{
-			"image"		"../console/title_team_halloween2011"
+			"image"		"../console/gif"
 		}
 		if_halloween_1
 		{
-			"image"		"../console/title_team_halloween2012"
+			"image"		"../console/gif"
 		}
 		if_fullmoon
 		{
-			"image"		"../console/title_fullmoon"
+			"image"		"../console/gif"
 		}
 		if_christmas
 		{
-			"image"		"../console/background_xmas2011"
+			"image"		"../console/gif"
 		}
 		if_eotl_launch
 		{
-			"image"		"../console/title_eotl01"
+			"image"		"../console/gif"
 		}
 		if_community_update
 		{
-			"image"		"../console/title_invasion"
+			"image"		"../console/gif"
 		}
 		if_operation
 		{
-			"image"		"..console/title_team_tough_break"
+			"image"		"../console/gif"
 		}
 		if_halloween_4
 		{
-			"image"		"..console/title_team_halloween2015"
+			"image"		"../console/gif"
 		}
 	}
 
-	"BG"
+	"BGgif"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"BG"
+		"fieldName"		"BGgif"
 		"xpos"			"0"		//0
 		"ypos"			"0"
-		"zpos"			"-10"
-		"wide"			"0"
-		"tall"			"0"
-		"fillcolor"		"0 0 0 0"
-		"visible"		"0"
-		"enabled"		"0"
+		"zpos"			"-199"
+		"wide"			"f0"
+		"tall"			"480"
+		"image"			"../console/gif"
+		"scaleImage"	"1"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 
 	"ButtonsBG"
@@ -1276,10 +1277,10 @@
 		}
 	}
 
-	"ConsoleButton"
+	"CreditButton"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"ConsoleButton"
+		"fieldname"		"CreditButton"
 		"xpos"			"77"
 		"ypos"			"r140"
 		"zpos"			"11"

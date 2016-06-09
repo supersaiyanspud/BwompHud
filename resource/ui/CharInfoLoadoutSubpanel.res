@@ -283,8 +283,8 @@
 		"Default"			"0"
 		"font"				"MenuKeys"
 		"scaleImage"		"1"
-		"activeimage"		"..\hud\backpack_01"
-		"inactiveimage"		"..\hud\backpack_01_grey"
+		"activeimage"		"replay/thumbnails/backpackg"
+		"inactiveimage"		"replay/thumbnails/backpack"	
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
@@ -326,8 +326,8 @@
 		"Default"			"0"
 		"font"				"MenuKeys"
 		"scaleImage"		"1"
-		"activeimage"		"crafting_anvil"
-		"inactiveimage"		"crafting_anvil_gray"
+		"activeimage"		"replay/thumbnails/anvilg"
+		"inactiveimage"		"replay/thumbnails/crafting"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -368,8 +368,8 @@
 		"Default"			"0"
 		"font"				"MenuKeys"
 		"scaleImage"		"1"
-		"activeimage"		"catalog_book"
-		"inactiveimage"		"catalog_book_gray"
+		"activeimage"		"replay/thumbnails/storeg"
+		"inactiveimage"		"replay/thumbnails/store"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
@@ -410,8 +410,8 @@
 		"Default"			"0"
 		"font"				"MenuKeys"
 		"scaleImage"		"1"
-		"activeimage"		"trading_parcel"
-		"inactiveimage"		"trading_parcel_gray"
+		"activeimage"		"replay/thumbnails/packageg"
+		"inactiveimage"		"replay/thumbnails/trading"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
