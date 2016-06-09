@@ -1,5 +1,5 @@
-SpudHud
-SpudHud is a tf2 custom interface (Hud) that was created by me, Spud. 
+BwompHud
+BwompHud is a tf2 custom interface (Hud) that was created by me, Spud. 
 
 Editing:
 If you wish to edit this hud to your preferences, i recommend downloading Notepad++ https://notepad-plus-plus.org/ as opening the hud's files with regular notepad would looks extremely confusing.
