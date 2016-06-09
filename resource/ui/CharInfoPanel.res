@@ -107,8 +107,8 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"				"NoBorder"
-			"bgcolor_override"		"BlackBorder"
+			"border"				"bpborder"
+			"bgcolor_override"		"White"
 	}				
 	
 	"Sheet"
@@ -135,7 +135,7 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"				"NoBorder"
+			"border"				"bpborderless"
 			"bgcolor_override"		"GrayBG"
 		}				
 		
@@ -143,18 +143,17 @@
 		{
 			"textinsetx"		"40"
 			"font"				"HudFontMediumBold"
-			"selectedcolor"		"WhiteS"
-			"unselectedcolor"	"GrayText"	
-			"defaultBgColor_override"	"BlackBorder"
+			"selectedcolor"		"White"
+			"unselectedcolor"	"GrayBG"	
+			"defaultBgColor_override"	"Black"
 			"paintbackground"	"1"
-			"activeborder_override"	"NoBorder"
-			"normalborder_override" "NoBorder"
-			"defaultBgColor_override"		"BlackBorder"
-			"unselectedBgColor_override"	"BlackBorder"
-			"depressedBgColor_override"		"BlackBorder"
+			"activeborder_override"	"bpborderless"
+			"normalborder_override" "bpborder"
+			"defaultBgColor_override"		"bpborder"
+			"unselectedBgColor_override"	"bpborder"
+			"depressedBgColor_override"		"White"
 		}
 	}
-	
 	"BackButton"
 	{
 		"ControlName"	"CExButton"
