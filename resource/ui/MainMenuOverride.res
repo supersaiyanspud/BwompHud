@@ -142,9 +142,9 @@
 		"zpos"			"-200"
 		"wide"			"f0"	//f0
 		"tall"			"480"	//480
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
-		"image"			""
+		"image"			"../console/gif"
 		"scaleImage"	"1"
 		
 		if_halloween_0
@@ -192,8 +192,8 @@
 		"tall"			"480"
 		"image"			"../console/gif"
 		"scaleImage"	"1"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 
 	"ButtonsBG"
