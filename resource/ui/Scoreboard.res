@@ -1077,8 +1077,8 @@
 			{
 				"font"		"solFontRegular40"
 				"fgcolor"		"White"
-				"textAlignment"	"east"
-				"xpos"		"c-110"
+				"textAlignment"	"center"
+				"xpos"		"c-29"
 				"ypos"		"r180"
 				"tall"		"41"
 			}
