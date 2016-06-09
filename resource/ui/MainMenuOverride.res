@@ -1031,7 +1031,7 @@
 		"tall"			"32"
 		"autoResize"	"0"
 		"pinCorner"		"3"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 
 		
@@ -1044,7 +1044,7 @@
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
@@ -1058,8 +1058,8 @@
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
-			"xpos"			"16"
-			"ypos"			"0"
+			"xpos"			"15"
+			"ypos"			"3"
 			"zpos"			"4"
 			"wide"			"16"
 			"tall"			"16"
@@ -1096,7 +1096,7 @@
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground"	"1"
+			"paintbackground"	"0"
 			"defaultBgColor_override"	"42 42 42 255"
 			"armedBgColor_override"		"57 57 57 255"
 			"depressedBgColor_override"	"42 42 42 255"
@@ -1114,7 +1114,7 @@
 				"tall"			"24"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"glyph_alert"
+				"image"			"replay/thumbnails/notif"
 				"scaleImage"	"1"
 			}
 		}
@@ -1189,7 +1189,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"solFontBold14"
 			"labelText"		"%notititle%"
 			"textAlignment"	"north-west"
 			"xpos"			"12"
@@ -1247,7 +1247,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"HTMLLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"solFontBold8"
 			"labelText"		"#MMenu_HTML"
 			"textAlignment"	"north-west"
 			"xpos"			"5"

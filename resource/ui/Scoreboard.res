@@ -687,8 +687,8 @@
 				"visible" "1"
 				"font"			"solFontRegular14"
 				"fgcolor"		"White"
-				"textAlignment"		"west"
-				"xpos"			"c-34"
+				"textAlignment"		"center"
+				"xpos"			"c-85"
 				"ypos"			"r95"
 				"wide"			"178"
 				"tall" 			"15"
@@ -990,10 +990,10 @@
 			
 			if_mvm
 			{
-				"textAlignment"	"east"
+				"textAlignment"	"center"
 				"fgcolor"		"White"
 				"font"		"solFontRegular40"
-				"xpos"		"c-145"
+				"xpos"		"c-105"
 				"ypos"		"r180"
 				"tall"		"41"
 				
