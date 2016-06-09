@@ -68,7 +68,9 @@
 	"ConsoleButton"
 	{
 		"label" "Artwork"
-		"command" "engine con_enable 1;showconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artist's deviantart: xmindblowx.deviantart.com.	 Also for more Scenic gifs like this check out imgur.com/gallery/g6XDZ"
+		"command" "engine con_enable 1;showconsole; clear; echo If you would like to check out more sfm artwork like this, here is the artists deviantart: xmindblowx.deviantart.com.	
+		echo Also for more gifs like this, be sure check out imgur.com/gallery/g6XDZ!
+		echo Thanks to twitch.tv/table__cloth for the custom icons :>"
 		"tooltip" "Check out more from the artist!"
 	} 
 	"DEMOUI"
@@ -177,5 +179,6 @@
 		"OnlyInGame"	"1"
 		"subimage"		"glyph_alert"
 		"tooltip"		"#MMenu_ReportPlayer"
+		
 	}
 }
