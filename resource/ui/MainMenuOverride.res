@@ -142,42 +142,42 @@
 		"zpos"			"-200"
 		"wide"			"f0"	//f0
 		"tall"			"480"	//480
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../console/gif"
+		"image"			"../console/background_2fort"
 		"scaleImage"	"1"
 		
 		if_halloween_0
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_halloween_1
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_fullmoon
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_christmas
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_eotl_launch
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_community_update
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_operation
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 		if_halloween_4
 		{
-			"image"		"../console/gif"
+			"image"		"../console/background_2fort"
 		}
 	}
 
@@ -192,8 +192,8 @@
 		"tall"			"480"
 		"image"			"../console/gif"
 		"scaleImage"	"1"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"					//If you would like to have the animated background disabled, 
+		"enabled"		"1"  				//  change the values of "enabled" and "visible" to "0"
 	}
 
 	"ButtonsBG"
