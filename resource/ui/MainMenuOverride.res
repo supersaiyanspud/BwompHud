@@ -181,22 +181,21 @@
 		}
 	}
 
-	"Background" 					//This is the Animated Background (Gif)
+	"Background0" 					//This is the Animated Background (Gif)
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"Background"
+		"fieldName"		"Background0"
 		"xpos"			"0"		//0
 		"ypos"			"0"
-		"zpos"			"-199"
-		"wide"			"f0"
-		"tall"			"480"
-		"OnlyAtMenu" 	"1"
-		"image"			""
-		"scaleImage"	"1"
-		"visible"		"1"					//If you would like to have the animated background disabled, 
-		"enabled"		"1"  			//  change the values of "enabled" and "visible" to "0"
-		if_halloween_0
-		{
+		"zpos"			"-199"			//If you would like to have the animated background disabled,
+		"wide"			"f0"			// change the values of "enabled" and "visible" to "0"
+		"tall"			"480"			// Also add a 1 to the end of both "Background"s 
+		"image"			""				//so it looks like "Background1" "fieldname" "Background1"
+		"scaleImage"	"1"				// To re-enable it, remove the 1's and set visible/enabled to "1"
+		"visible"		"0"				 
+		"enabled"		"0"  			
+		if_halloween_0					
+		{								
 			"image"		"../console/gif"
 		}
 		if_halloween_1
@@ -494,8 +493,8 @@
 	{
 		"ControlName"	"CTFStreamListPanel"
 		"fieldName"		"StreamListPanel"
-		"xpos"			"r360"
-		"ypos"			"55"
+		"xpos"			"r350"
+		"ypos"			"18"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"325"
@@ -584,8 +583,8 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"NotificationsContainer"
-			"xpos"			"r318"
-			"ypos"			"55"
+			"xpos"			"r350"
+			"ypos"			"18"
 			"zpos"			"10"
 			"wide"			"16"
 			"tall"			"16"
@@ -699,8 +698,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
-		"xpos"			"r320"
-		"ypos"			"55"
+		"xpos"			"r350"
+		"ypos"			"18"
 		"zpos"			"10"
 		"wide"			"300"
 		"tall"			"360"
