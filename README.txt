@@ -3,4 +3,12 @@ BwompHUD is a combination of bwHUD and OMPHUD. Uses the main font from OMPHUD (F
 =================================================
 Changing backgrounds
 ---------------------
-If you would like to change the background between gif/non-gif then all you have to do is go into resource\ui\mainmenuoverride.res and find "BGgif". Once you have found that, set the values of "enabled" and "visible" to "1" or "0" and then type mat_antialias 1 in console to swap.
+If you would like to have the animated background disabled,
+change the values of "enabled" and "visible" of the gif background to "0"
+Also add a 1 to the end of both "Background"s 
+so it looks like: //"Background1" 
+					//{
+					//	"ControlName"	"ImagePanel"
+					//	"fieldname" "Background1"
+					//}
+To re-enable it, remove the 1's and set visible/enabled to "1"
