@@ -133,7 +133,7 @@
 			}
 		}
 	}	
-	"Background"
+	"Background"				//This is the sfm artwork (Non-Gif)
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Background"
@@ -144,7 +144,7 @@
 		"tall"			"480"	//480
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../console/background_2fort"
+		"image"			""
 		"scaleImage"	"1"
 		
 		if_halloween_0
@@ -181,19 +181,52 @@
 		}
 	}
 
-	"BGgif"
+	"Background" 					//This is the Animated Background (Gif)
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"BGgif"
+		"fieldName"		"Background"
 		"xpos"			"0"		//0
 		"ypos"			"0"
 		"zpos"			"-199"
 		"wide"			"f0"
 		"tall"			"480"
-		"image"			"../console/gif"
+		"OnlyAtMenu" 	"1"
+		"image"			""
 		"scaleImage"	"1"
 		"visible"		"1"					//If you would like to have the animated background disabled, 
-		"enabled"		"1"  				//  change the values of "enabled" and "visible" to "0"
+		"enabled"		"1"  			//  change the values of "enabled" and "visible" to "0"
+		if_halloween_0
+		{
+			"image"		"../console/gif"
+		}
+		if_halloween_1
+		{
+			"image"		"../console/gif"
+		}
+		if_fullmoon
+		{
+			"image"		"../console/gif"
+		}
+		if_christmas
+		{
+			"image"		"../console/gif"
+		}
+		if_eotl_launch
+		{
+			"image"		"../console/gif"
+		}
+		if_community_update
+		{
+			"image"		"../console/gif"
+		}
+		if_operation
+		{
+			"image"		"../console/gif"
+		}
+		if_halloween_4
+		{
+			"image"		"../console/gif"
+		}
 	}
 
 	"ButtonsBG"
@@ -387,8 +420,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
-		"xpos"			"r92"
-		"ypos"			"20"
+		"xpos"			"r50"
+		"ypos"			"40"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -479,8 +512,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton2"
-		"xpos"			"r134"
-		"ypos"			"20"
+		"xpos"			"r50"
+		"ypos"			"70"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -605,7 +638,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
 		"xpos"			"r50"
-		"ypos"			"20"
+		"ypos"			"10"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -1025,8 +1058,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"r176"
-		"ypos"			"20"
+		"xpos"			"r50"
+		"ypos"			"100"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
