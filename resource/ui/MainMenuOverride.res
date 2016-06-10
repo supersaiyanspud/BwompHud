@@ -139,11 +139,11 @@
 		"fieldName"		"Background"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"-200"
-		"wide"			"f0"	//f0
-		"tall"			"480"	//480
-		"visible"		"1"
-		"enabled"		"1"
+		"zpos"			"-200"							//If you would like to have the sfm art background enabled,
+		"wide"			"f0"	//f0                    // change the values of "enabled" and "visible" of the gif background to "0"
+		"tall"			"480"	//480					// Also add a 1 to the end of both "Background"s 
+		"visible"		"1"								//so it looks like "Background1" "fieldname" "Background1"
+		"enabled"		"1"								// To re-enable it, remove the 1's and set visible/enabled to "1"
 		"image"			""
 		"scaleImage"	"1"
 		
@@ -181,19 +181,19 @@
 		}
 	}
 
-	"Background0" 					//This is the Animated Background (Gif)
+	"Background" 					//This is the Animated Background (Gif)
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"Background0"
+		"fieldName"		"Background"
 		"xpos"			"0"		//0
 		"ypos"			"0"
 		"zpos"			"-199"			//If you would like to have the animated background disabled,
-		"wide"			"f0"			// change the values of "enabled" and "visible" to "0"
+		"wide"			"f0"			// change the values of "enabled" and "visible" of the gif background to "0"
 		"tall"			"480"			// Also add a 1 to the end of both "Background"s 
 		"image"			""				//so it looks like "Background1" "fieldname" "Background1"
 		"scaleImage"	"1"				// To re-enable it, remove the 1's and set visible/enabled to "1"
-		"visible"		"0"				 
-		"enabled"		"0"  			
+		"visible"		"1"				 
+		"enabled"		"1"  			
 		if_halloween_0					
 		{								
 			"image"		"../console/gif"
