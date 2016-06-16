@@ -1,8 +1,10 @@
-"LightmappedGeneric"
+"UnlitGeneric"
 {
-	"$basetexture" "vgui/replay/thumbnails/storeg"
 	"$translucent" 1
-   	"$vertexcolor" 		1 
-  	"$vertexalpha" 		1 
-   	"$nolod" 			1
+	"$baseTexture" "vgui/replay/thumbnails/storeg"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
 }
+
