@@ -144,7 +144,7 @@
 			"textinsetx"		"40"
 			"font"				"HudFontMediumBold"
 			"selectedcolor"		"White"
-			"unselectedcolor"	"Black"	
+			"unselectedcolor"	"105 105 105 255"	
 			"defaultBgColor_override"	"GrayBG"
 			"paintbackground"	"1"
 			"activeborder_override"	"bpborderless"

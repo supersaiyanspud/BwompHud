@@ -157,6 +157,21 @@
         "image"         "../vgui/marked_for_death"
         "fgcolor"       "TanDark"
     }
+	"PlayerStatus_Parachute"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_Parachute"
+		"xpos"			"20"
+		"ypos"			"90"
+		"zpos"			"7"
+		"wide"			"32"
+		"tall"			"32"
+		"visible"		"0"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			""
+		"fgcolor"		"White"
+	}
     "PlayerStatus_MedicUberBulletResistImage"
     {
         "ControlName"   "ImagePanel"

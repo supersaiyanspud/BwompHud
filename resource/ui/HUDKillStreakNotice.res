@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 200"	
+		"bgcolor_override"	"46 43 42 160"	
 	}
 	
 	"SplashLabel"
@@ -29,22 +29,6 @@
 		"wide"			"500"
 		"tall"			"50"
 		"autoResize"	"0"
-		"fgcolor"		"0 0 0 0"
-	}
-	"BG"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"BG"
-		"xpos"			"c-108"
-		"ypos"			"50"
-		"zpos"			"9999999"
-		"wide"			"208"
-		"tall"			"10"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			".replay/thumbnails/bg_black"
-		"scaleImage"	"1"	
-		"teambg_2"		"replay/thumbnails/bg_black"
-		"teambg_3"		"replay/thumbnails/bg_black"	
+		"fgcolor"		"TanLight"
 	}
 }

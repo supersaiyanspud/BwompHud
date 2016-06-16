@@ -1769,6 +1769,7 @@
 			"xpos"			"10"
 			"ypos"			"90"
 			"zpos"			"10"
+			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
 			"autoResize"	"0"
