@@ -3,7 +3,8 @@
 	"HudName"
 	{
 		"label" "BwompHUD"
-		"command" "engine con_enable 1; showconsole; clear; echo BWHUD + OMPHUD."
+		"command" "engine con_enable 1; showconsole; clear; echo BWHUD + OMPHUD.; play vo/heavy_needdispenser01.mp3"
+		
 	}
 	"Desc"
 	{
