@@ -20,7 +20,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"			"Black"
 		"xpos"			"0"
 		"ypos"			"r439"
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToggleLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"xpos"			"0"
 		"ypos"			"r22"
 		"zpos"			"2"
@@ -315,7 +315,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"BrightGray"
 		"xpos"			"c-140"
 		"ypos"			"c21"
@@ -352,7 +352,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"BrightGray"
 		"xpos"			"c-20"
 		"ypos"			"c21"
@@ -389,7 +389,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"BrightGray"
 		"xpos"			"c100"
 		"ypos"			"c21"
