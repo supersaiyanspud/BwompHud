@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"xpos"			"0"
 		"ypos"			"r437"
 		"zpos"			"1"
@@ -92,7 +92,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"solFontRegular21"
+		"font"			"FuturaStd-Medium21"
 		"fgcolor"		"215 215 215 255"
 		"xpos"			"0"
 		"ypos"			"r406"
@@ -163,7 +163,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"White"
 		"xpos"			"0"
 		"ypos"			"r362"
