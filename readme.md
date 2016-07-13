@@ -1,13 +1,7 @@
-#budhud
-A Team Fortress 2 HUD built from the base hud and elements of rays' hud.
+#SpudHUD
+A TF2 HUD that was inspired by OMPHUD and BwHUD
 
-**Note:** If you plan to make changes to the hud, it is best to use a code editor such as either of the two listed below.
-
-For Windows: Notepad++
-http://notepad-plus-plus.org/
-
-For Mac: Sublime
-http://www.sublimetext.com/2
+**Customising Your HUD** If you would like to make personal changes to the hud i'd recommend using NotePad++: http://notepad-plus-plus.org/
 
 ####STEAM: http://steamcommunity.com/groups/budhud
 ####Screenshots: http://imgur.com/a/pFLrC
