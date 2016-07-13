@@ -6,7 +6,7 @@ If you would like to make personal changes to the hud i'd recommend using NotePa
 
 **Hud Steam Group:**
 If you have and problems/questions be sure to ask them here: http://steamcommunity.com/groups/SpudHUD
-####Screenshots: http://imgur.com/a/pFLrC
+**Screenshots:** http://imgur.com/a/xnCqH
 
 Installation
 ============
