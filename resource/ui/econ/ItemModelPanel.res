@@ -156,7 +156,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"quantitylabel"
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -178,7 +178,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"serieslabel"
-			"font"			"solFontRegular10"
+			"font"			"FuturaStd-Medium10"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -200,7 +200,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"matcheslabel"
-			"font"			"solFontRegular10"
+			"font"			"FuturaStd-Medium10"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"

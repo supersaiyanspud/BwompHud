@@ -73,7 +73,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"New"
-				"font"			"solFontRegular10"
+				"font"			"FuturaStd-Medium10"
 				"textAlignment"	"east"
 				"ypos"			"0"
 				"xpos"			"0"
@@ -129,7 +129,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"New"
-				"font"			"solFontRegular10"
+				"font"			"FuturaStd-Medium10"
 				"textAlignment"	"east"
 				"xpos"			"rs1"
 				"zpos"			"15"
