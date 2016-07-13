@@ -36,7 +36,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"xpos"			"102"			// align me to the left edge of the first selection
 		"ypos"			"34"
 		"zpos"			"2"
