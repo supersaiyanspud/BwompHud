@@ -1509,7 +1509,7 @@ Scheme
 		}
 		
 		
-		solFontRegular8
+		FuturaStd-Medium8
 		{
 			"1"
 			{
@@ -1519,7 +1519,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular9
+		FuturaStd-Medium9
 		{
 			"1"
 			{
@@ -1529,7 +1529,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular10
+		FuturaStd-Medium10
 		{
 			"1"
 			{
@@ -1539,7 +1539,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular11
+		FuturaStd-Medium11
 		{
 			"1"
 			{
@@ -1549,7 +1549,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular12
+		FuturaStd-Medium12
 		{
 			"1"
 			{
@@ -1559,7 +1559,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular14
+		FuturaStd-Medium14
 		{
 			"1"
 			{
@@ -1569,7 +1569,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular16
+		FuturaStd-Medium16
 		{
 			"1"
 			{
@@ -1579,7 +1579,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular18
+		FuturaStd-Medium18
 		{
 			"1"
 			{
@@ -1589,7 +1589,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular21
+		FuturaStd-Medium21
 		{
 			"1"
 			{
@@ -1599,7 +1599,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular22
+		FuturaStd-Medium22
 		{
 			"1"
 			{
@@ -1610,7 +1610,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		solFontRegular24
+		FuturaStd-Medium24
 		{
 			"1"
 			{
@@ -1620,7 +1620,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular30
+		FuturaStd-Medium30
 		{
 			"1"
 			{
@@ -1630,7 +1630,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular36
+		FuturaStd-Medium36
 		{
 			"1"
 			{
@@ -1640,7 +1640,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular40
+		FuturaStd-Medium40
 		{
 			"1"
 			{
@@ -1650,7 +1650,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular48
+		FuturaStd-Medium48
 		{
 			"1"
 			{
@@ -1660,7 +1660,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular60
+		FuturaStd-Medium60
 		{
 			"1"
 			{
@@ -1670,7 +1670,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontRegular72
+		FuturaStd-Medium72
 		{
 			"1"
 			{
@@ -1681,7 +1681,7 @@ Scheme
 			}
 		}
 		
-		solFontBold8
+		FuturaStd-Heavy8
 		{
 			"1"
 			{
@@ -1691,7 +1691,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold9
+		FuturaStd-Heavy9
 		{
 			"1"
 			{
@@ -1701,7 +1701,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold10
+		FuturaStd-Heavy10
 		{
 			"1"
 			{
@@ -1711,7 +1711,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold11
+		FuturaStd-Heavy11
 		{
 			"1"
 			{
@@ -1721,7 +1721,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold12
+		FuturaStd-Heavy12
 		{
 			"1"
 			{
@@ -1731,7 +1731,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold14
+		FuturaStd-Heavy14
 		{
 			"1"
 			{
@@ -1741,7 +1741,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold16
+		FuturaStd-Heavy16
 		{
 			"1"
 			{
@@ -1751,7 +1751,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold18
+		FuturaStd-Heavy18
 		{
 			"1"
 			{
@@ -1761,7 +1761,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold21
+		FuturaStd-Heavy21
 		{
 			"1"
 			{
@@ -1771,7 +1771,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold24
+		FuturaStd-Heavy24
 		{
 			"1"
 			{
@@ -1781,7 +1781,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold30
+		FuturaStd-Heavy30
 		{
 			"1"
 			{
@@ -1791,7 +1791,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold36
+		FuturaStd-Heavy36
 		{
 			"1"
 			{
@@ -1801,7 +1801,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold48
+		FuturaStd-Heavy48
 		{
 			"1"
 			{
@@ -1811,7 +1811,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold60
+		FuturaStd-Heavy60
 		{
 			"1"
 			{
@@ -1821,7 +1821,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		solFontBold72
+		FuturaStd-Heavy72
 		{
 			"1"
 			{
@@ -8599,12 +8599,12 @@ Scheme
 		"25"
 		{
 			"font"	"resource/fonts/Solomon Normal.otf"
-			"name" "solFontRegular"
+			"name" "FuturaStd-Medium"
 		}
 		"26"
 		{
 			"font"	"resource/fonts/FuturaStd-Heavy.ttf"
-			"name"	"solFontBold"
+			"name"	"FuturaStd-Heavy"
 		}
 		"27"
 		{

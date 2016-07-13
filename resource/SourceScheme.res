@@ -7,19 +7,19 @@ Scheme
 {
 	Colors
 	{
-		// bwompomphud	
+		// spudomphud	
 		"White"				"255 255 255 255"
 		"OffWhite"			"200 200 200 255"
 		"DullWhite"			"142 142 142 255"
 		"TransparentBlack"		"0 0 0 128"
 		"Black"				"10 10 10 255" 
 		"Blank"				"0 0 0 0"
-		"bwompPrimary"			"255 255 255 255"
-		"bwompPrimaryLight"		"230 230 230 255"
-		"bwompPrimaryDark"		"200 200 200 255"
-		"bwompBlack"				"15 15 15 255"
-		"bwompBlackTrans"		"15 15 15 190"
-		"bwompButtonHover"		"55 52 55 128"
+		"spudPrimary"			"255 255 255 255"
+		"spudPrimaryLight"		"230 230 230 255"
+		"spudPrimaryDark"		"200 200 200 255"
+		"spudBlack"				"15 15 15 255"
+		"spudBlackTrans"		"15 15 15 190"
+		"spudButtonHover"		"55 52 55 128"
 		
 		// TF2
 	    "TFDarkBrown"               "60 56 53 255"
@@ -64,7 +64,7 @@ Scheme
 		Button.TextColor				"Black"
 		Button.BgColor					"White"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"bwompButtonHover"
+		Button.ArmedBgColor				"spudButtonHover"
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Blank"
@@ -72,7 +72,7 @@ Scheme
 		CheckButton.TextColor			"OffWhite"
 		CheckButton.SelectedTextColor	"White"
 		CheckButton.BgColor				"TransparentBlack"
-		CheckButton.HighlightFgColor	"bwompPrimary"
+		CheckButton.HighlightFgColor	"spudPrimary"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Black"
@@ -97,7 +97,7 @@ Scheme
 		FrameGrip.Color2				"0 0 0 196"
 		FrameTitleButton.FgColor		"200 200 200 196"
 		FrameTitleBar.Font				"UiBold"
-		FrameTitleBar.TextColor			"bwompPrimary"
+		FrameTitleBar.TextColor			"spudPrimary"
 		FrameTitleBar.DisabledTextColor	"255 255 255 192"
 		
 		Label.TextDullColor				"DullWhite"
@@ -110,18 +110,18 @@ Scheme
 		
 		ListPanel.TextColor					"OffWhite"
 		ListPanel.BgColor					"TransparentBlack"
-		ListPanel.SelectedBgColor			"bwompPrimary"
+		ListPanel.SelectedBgColor			"spudPrimary"
 		ListPanel.SelectedOutOfFocusBgColor	"100 100 100 128"
 		
 		MainMenu.TextColor			"White"
-		MainMenu.ArmedTextColor		"bwompPrimary"
+		MainMenu.ArmedTextColor		"spudPrimary"
 		MainMenu.Inset				"32"
 		
 		Menu.TextInset					"6"
 		Menu.FgColor			"White"
 		Menu.BgColor					"160 160 160 64"
-		Menu.ArmedFgColor		"bwompPrimary"
-		Menu.ArmedBgColor				"bwompPrimary"
+		Menu.ArmedFgColor		"spudPrimary"
+		Menu.ArmedBgColor				"spudPrimary"
 		Menu.DividerColor		"BorderDark"
 		
 		ScrollBarButton.FgColor				"Black"
@@ -142,7 +142,7 @@ Scheme
 		
 		TextEntry.TextColor			"OffWhite"
 		TextEntry.DisabledTextColor	"DullWhite"
-		TextEntry.SelectedBgColor	"bwompPrimary"
+		TextEntry.SelectedBgColor	"spudPrimary"
 		
 		// Borrowed from CS:S SourceScheme
 		Frame.TitleTextInsetX			14
@@ -177,7 +177,7 @@ Scheme
 		RichText.TextColor				"OffWhite"
 		RichText.BgColor				"TransparentBlack"
 		RichText.SelectedTextColor		"Black"
-		RichText.SelectedBgColor		"bwompPrimary"
+		RichText.SelectedBgColor		"spudPrimary"
 		ScrollBar.Wide					17
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -186,7 +186,7 @@ Scheme
 		SectionedListPanel.BrightTextColor	"White"
 		SectionedListPanel.BgColor			"TransparentBlack"
 		SectionedListPanel.SelectedTextColor			"Black"
-		SectionedListPanel.SelectedBgColor				"bwompPrimary"
+		SectionedListPanel.SelectedBgColor				"spudPrimary"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"100 100 100 128"
 		TextEntry.BgColor			"TransparentBlack"
@@ -197,7 +197,7 @@ Scheme
 		TextEntry.FocusEdgeColor	"0 0 0 196"
 		ToggleButton.SelectedTextColor	"White"
 		Tooltip.TextColor			"0 0 0 196"
-		Tooltip.BgColor				"bwompPrimary"
+		Tooltip.BgColor				"spudPrimary"
 		TreeView.BgColor			"TransparentBlack"
 		WizardSubPanel.BgColor		"Blank"
 		MainMenu.DepressedTextColor	"150 150 150 128"
@@ -207,7 +207,7 @@ Scheme
 		Console.DevTextColor		"White"
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"bwompPrimary"
+		NewGame.SelectionColor		"spudPrimary"
 		NewGame.DisabledColor		"128 128 128 196"
 	}
 	

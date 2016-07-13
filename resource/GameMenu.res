@@ -8,7 +8,7 @@
 	}
 	"Desc"
 	{
-		"label" "A hud, made by a spud"
+		"label" "A HUD MADE BY A SPUD"
 		"command" "engine con_enable 1; showconsole; clear; echo Yep thats what it stands for"
 		"OnlyAtMenu"	"1"
 	}
