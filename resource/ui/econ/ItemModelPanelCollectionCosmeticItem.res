@@ -1,22 +1,22 @@
-"Resource/UI/ItemModelPanel.res"
-{	
+"Resource/UI/ItemModelPanelCollectionCosmeticItem.res"
+{
 	"mouseoveritempanel"
 	{
-		"fieldName"				"mouseoveritempanel"
-		"collection_list_xpos"	"250"
-		"is_mouseover"			"1"
-		"text_xpos_collection"	"0"
+		"fieldName"			"mouseoveritempanel"
+		"collection_list_xpos"	"200"
+		"is_mouseover"		"1"
+		"text_xpos_collection"	"15"
 		"text_ypos"			"15"
-		"text_forcesize" "0"
-		//"model_xpos_collection"	"77"
-		//"model_ypos_collection"	"20"
-		//"model_wide_collection"	"156"
-		//"model_tall_collection"	"100"
+		"model_xpos"	"5"
+		"model_ypos"	"10"
+		"model_wide"	"180"
+		"model_tall"	"120"
+		"text_forcesize" "2"
 	}
 	
 	"LoadingSpinner"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"LoadingSpinner"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -31,50 +31,38 @@
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 	}
-	
+
 	"MainContentsContainer"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"MainContentsContainer"
+		"fieldName"		"MainContentsContainer"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override"		"0 0 0 0"
 		
 		"itemmodelpanel"
 		{
-			"ControlName" "CEmbeddedItemModelPanel"
-			"fieldName"	  "itemmodelpanel"
-			
-			"xpos"		"0"
-			"ypos"		"0"
-			"zpos"		"1"
-			"wide"		"140"
-			"tall"		"100"
-			"autoresize" "0"
-			"pinCorner"	"0"
-			"visible"	"1"
-			"enabled"   "1"
-			"useparentbg" "1"
-			
+			"ControlName"		"CEmbeddedItemModelPanel"
+			"fieldName"		"itemmodelpanel"
+	
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"		
+			"wide"			"140"
+			"tall"			"100"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"useparentbg"		"1"
+			"proportionaltoparent" "1"
+		
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
-
-			"fov"			"54"
-			"start_framed"		"1"
-
-			"disable_manipulation"	"1"
-
-			"model"
-			{
-				"angles_x"		"10"
-				"angles_y"		"130"
-				"angles_z"		"0"
-			}
 		}
-		
 	
 		"namelabel"
 		{
@@ -84,37 +72,92 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"140"
+			"wide"			"100"
 			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%itemname%"
-			"textAlignment"	"south"
+			"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
 			"centerwrap"	"1"
 		}
+		
 		"attriblabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
-			"font"			"ItemFontAttribLarge"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
-			"wide"			"140"
+			"wide"			"100"
 			"tall"			"60"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
-			"textAlignment"	"south"
+			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
-			"centerwrap"	"1"
+			"centerwrap"	"0"
+		}
+
+		"collectionnamelabel"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"collectionnamelabel"
+			"font"			"ItemFontNameLarge"
+			"xpos"			"100"
+			"ypos"			"30"
+			"zpos"			"2"
+			"wide"			"100"
+			"tall"			"30"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"labelText"		"%collectionname%"
+			"textAlignment"	"west"
+			"fgcolor"		"235 226 202 255"
+			"centerwrap"	"0"
 		}
 	
+		"collectionlistlabel"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"collectionlistlabel"
+			"font"			"ItemFontAttribSmall"
+			"xpos"			"100"
+			"ypos"			"60"
+			"zpos"			"2"
+			"wide"			"100"
+			"tall"			"60"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"labelText"		"%collectionlist%"
+			"textAlignment"	"west"
+			"fgcolor"		"117 107 94 255"
+			"centerwrap"	"0"
+		}
+			
+		"collectionhighlight"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"collectionhighlight"
+			"xpos"			"208"
+			"ypos"			"42"
+			"zpos"			"1"
+			"wide"			"145"
+			"tall"			"9"
+			"visible"		"0"
+			"PaintBackgroundType"	"2"
+			"bgcolor_override"		"215 206 182 255"
+		}
+		
 		"equippedlabel"
 		{
 			"ControlName"	"CExLabel"
@@ -134,8 +177,6 @@
 			"fgcolor"		"200 80 60 255"
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
-			"PaintBackgroundType"	"0"
-			"border"		"NoBorder"
 		}
 	
 		"paint_icon"
@@ -156,7 +197,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"quantitylabel"
-			"font"			"solFontRegular12"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -170,15 +211,14 @@
 			"textAlignment"	"center"
 			"fgcolor"		"200 80 60 255"
 			"bgcolor_override"		"0 0 0 255"
-			"PaintBackgroundType"	"0"
-			"border"		"NoBorder"
+			"PaintBackgroundType"	"2"
 		}
 
 		"serieslabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"serieslabel"
-			"font"			"solFontRegular10"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -191,16 +231,15 @@
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
-			"bgcolor_override"		"0 0 0 255"
-			"PaintBackgroundType"	"0"
-			"border"		"NoBorder"
+			"bgcolor_override"		"0 40 30 255"
+			"PaintBackgroundType"	"2"
 		}
-		
+
 		"matcheslabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"matcheslabel"
-			"font"			"solFontRegular10"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -213,7 +252,7 @@
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
-			"bgcolor_override"		"0 0 0 255"
+			"bgcolor_override"		"0 40 30 255"
 			"PaintBackgroundType"	"2"
 		}
 
@@ -232,7 +271,6 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}
-		
 		"is_strange_icon"
 		{
 			"ControlName"	"ImagePanel"
@@ -263,6 +301,22 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}
+		"is_loaner_icon"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"is_loaner_icon"
+			"xpos"			"4"
+			"ypos"			"4"
+			"zpos"			"2"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"wide"			"16"
+			"tall"			"16"
+			"visible"		"0"
+			"enabled"		"1"
+			"scaleImage"	"1"
+		}
+		
 		"contained_item_panel"
 		{
 			"ControlName"	"CItemModelPanel"

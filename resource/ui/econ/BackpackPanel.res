@@ -12,11 +12,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"settitlebarvisible"	"0"
+		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"GrayBG"
 		"infocus_bgcolor_override" "GrayBG"
 		"outoffocus_bgcolor_override" "GrayBG"
+		"paintborder"	"1"
 		
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -117,8 +118,6 @@
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 		
-			"deferred_description"		"1"
-			"deferred_icon"				"1"
 		
 			"itemmodelpanel"
 			{
