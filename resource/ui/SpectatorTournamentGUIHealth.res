@@ -59,24 +59,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueSpec"
-		"xpos"			"128"
+		"xpos"			"108"
 		"ypos"			"2"
-		"zpos"			"5"
-		"wide"			"23"
-		"tall"			"12"
-		"visible"		"0"
-		"enabled"		"1"
-		"textAlignment"	"center"	
-		"font"			"solFontRegular12"
-		"fgcolor"		"White"
-		"labeltext"		"%Health%"
-	}								
-	"PlayerStatusHealthValueSpecShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueSpecShadow"
-		"xpos"			"128"
-		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"23"
 		"tall"			"12"
@@ -86,12 +70,12 @@
 		"font"			"solFontRegular12"
 		"fgcolor"		"White"
 		"labeltext"		"%Health%"
-	}
+	}								
 	"HealthBarBuffTournament"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBarBuffTournament"
-		"xpos"			"128"
+		"xpos"			"108"
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"32"
@@ -103,13 +87,13 @@
 		"tabPosition"	"0"
 		"alpha"			"0"		
 		"fillcolor"		"0 185 255 80"
-		"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"1"
 	}
 	"HealthBarBuffTournament2"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBarBuffTournament2"
-		"xpos"			"128"
+		"xpos"			"108"
 		"ypos"			"0"
 		"zpos"			"4"
 		"wide"			"32"
@@ -121,13 +105,13 @@
 		"tabPosition"	"0"
 		"alpha"			"0"		
 		"fillcolor"		"12 12 90 80"
-		"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"1"
 	}
 	"HealthBarHurtTournament"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBarHurtTournament"
-		"xpos"			"128"
+		"xpos"			"108"
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"32"
@@ -145,9 +129,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBarHurtTournament2"
-		"xpos"			"128"
+		"xpos"			"108"
 		"ypos"			"0"
-		"zpos"			"4"
+		"zpos"			"5"
 		"wide"			"32"
 		"tall"			"20"
 		"autoResize"	"0"
@@ -158,5 +142,22 @@
 		"alpha"			"0"		
 		"fillcolor"		"90 12 12 80"
 		"PaintBackgroundType"	"0"
-	}		
+	}	
+	"SpecHealthBG"	
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"SpecHealthBG"
+		"xpos"			"108"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"       	"24"
+		"tall"        	"16"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"defaultBgColor_Override"	"Blank"
+		"PaintBackgroundType"	"0"
+        "textinsety"	"99"
+	}	
 }

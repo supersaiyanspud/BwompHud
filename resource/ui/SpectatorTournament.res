@@ -23,7 +23,7 @@
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"150"
+			"wide"			"130"
 			"tall"			"14"
 			"zpos"			"-1"
 
@@ -35,10 +35,10 @@
 			{
 				"ControlName" "ImagePanel"
 				"fieldName"   "BG"
-				"xpos"        "27"
+				"xpos"        "0"
 				"ypos"        "0"
 				"zpos"        "1"
-				"wide"        "124"	//66
+				"wide"        "114"	//66
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
@@ -47,27 +47,11 @@
 				"enabled"			"1"
 			}
 
-			"BGLeft"
-			{
-				"ControlName" "ImagePanel"
-				"fieldName"   "BGLeft"
-				"xpos"        "0"
-				"ypos"        "0"	
-				"zpos"        "0"
-				"wide"        "20"		//23
-				"tall"        "14"			
-				"autoResize"		"0"
-				"pinCorner"		"0"
-				"fillcolor"		"255 255 255 255"
-				"visible"			"1"
-				"enabled"			"1"
-			}
-
 			"BGClass"
 			{
 				"ControlName" "ImagePanel"
 				"fieldName"   "BGClass"
-				"xpos"        "20"
+				"xpos"        "0"
 				"ypos"        "0"
 				"zpos"        "3"
 				"wide"        "14"
@@ -78,12 +62,12 @@
 				"visible"			"1"
 				"enabled"			"1"
 			}
-
+			
 			"BGHP"
 			{
 				"ControlName" "ImagePanel"
 				"fieldName"   "BGHP"
-				"xpos"        "128"		//115
+				"xpos"        "108"		//115
 				"ypos"        "0"
 				"zpos"        "2"
 				"wide"        "26"
@@ -100,7 +84,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
 				"font"		"solFontRegular10"
-				"xpos"			"35"
+				"xpos"			"15"
 				"ypos"			"1"
 				"zpos"			"5"
 				"wide"			"93"		//62
@@ -122,7 +106,7 @@
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
-				"xpos"			"20"
+				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"4"
 				"wide"			"14"
@@ -142,7 +126,7 @@
 			{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg"
-				"xpos"			"5"
+				"xpos"			"-20"
 				"ypos"			"0"
 				"zpos"			"2"
 				"wide"			"18"
@@ -180,7 +164,7 @@
 			{
 				"ControlName"		"ScalableImagePanel"
 				"fieldName"		"ReadyBG"
-				"xpos"			"30"
+				"xpos"			"10"
 				"ypos"			"6"
 				"zpos"			"-1"
 				"wide"			"16"
@@ -207,7 +191,7 @@
 			{
 				"ControlName"		"ImagePanel"
 				"fieldName"		"ReadyImage"
-				"xpos"			"32"
+				"xpos"			"12"
 				"ypos"			"8"
 				"zpos"			"0"
 				"wide"			"12"
@@ -230,9 +214,9 @@
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
 				"font"		"solFontRegular11"
-				"xpos"			"0"
+				"xpos"			"108"
 				"ypos"			"0"
-				"zpos"			"8"
+				"zpos"			"6"
 				"wide"			"20"
 				"tall"			"13"
 				"autoResize"	"0"
@@ -253,11 +237,11 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntimecover"
 				"font"			"Shapes64"
-				"xpos"			"0"
+				"xpos"			"108"
 				"ypos"			"0"
 				"zpos"			"5"
-				"wide"			"20"
-				"tall"			"20"
+				"wide"			"26"
+				"tall"			"14"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -271,9 +255,9 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntimecover2"
 				"font"			"Shapes64"
-				"xpos"			"128"
+				"xpos"			"108"
 				"ypos"			"0"
-				"zpos"			"10"
+				"zpos"			"5"
 				"wide"			"26"
 				"tall"			"20"
 				"autoResize"	"0"
@@ -289,7 +273,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
 				"font"		"solFontRegular10"
-				"xpos"			"0"
+				"xpos"			"87"
 				"ypos"			"1"
 				"zpos"			"8"
 				"wide"			"20"
