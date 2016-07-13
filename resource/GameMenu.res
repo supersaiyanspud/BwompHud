@@ -2,57 +2,31 @@
 {
 	"HudName"
 	{
-		"label" "BwompHUD"
+		"label" "SpudHUD"
 		"command" "engine con_enable 1; showconsole; clear; echo BWHUD + OMPHUD.; play vo/heavy_needdispenser01.mp3"
-		
+		"OnlyAtMenu"	"1"
 	}
 	"Desc"
 	{
-		"label" "Basically BWHUD + OMPHUD"
+		"label" "A hud, made by a spud"
 		"command" "engine con_enable 1; showconsole; clear; echo Yep thats what it stands for"
+		"OnlyAtMenu"	"1"
 	}
 
-	"QuickplayButton"
+	"FindAGameButton"
 	{
-		"label" "#MMenu_StartPlaying" 
-		"command" "quickplay"
-		"OnlyAtMenu" "1"
+		"label" "#MMenu_FindAGame" 
+		"command" "toggle_play_menu"	
+		"OnlyAtMenu" 	"1"
 		"tooltip" "Quick Play"
 	}
-	"QuickplayChangeButton"
+
+	"FindAGameButtonHalfWidth"
 	{
-		"label" "#MMenu_NewGame" 
-		"command" "quickplay"
-		"OnlyInGame" "1"
-		"tooltip" "Quick Play"
-	}
-	"PlayPVEButton"
-	{
-		"label" "Mann vs Machine" 
-		"command" "playpve"
-		"OnlyAtMenu" "1"
-		"tooltip" "Mann Up"
-	}
-	"PlayCompButton"
-	{
-		"label" "Competitive"
-		"command" "ladder_ui_show"
-		"OnlyAtMenu" "1"
-		"tooltip"	"Play Matchmaking!"
-	} 
-	"ServerBrowserButton"
-	{
-		"label" "#MMenu_BrowseServers" 
-		"command" "OpenServerBrowser"
-		"OnlyAtMenu" "1"
-		"tooltip" "Browse Servers"
-	} 
-	"ChangeServerButton"
-	{
-		"label" "#MMenu_ChangeServer" 
-		"command" "OpenServerBrowser"
-		"OnlyInGame" "1"
-		"tooltip" "Browse Servers"
+		"label" "#MMenu_FindAGame" 
+		"command" "toggle_play_menu"
+		"subimage" "glyph_multiplayer"
+		"OnlyInGame"	"1"
 	}
 	"ReplayBrowserButton"
 	{
@@ -108,12 +82,6 @@
 		"command" "engine replay_confirmquit"
 		"OnlyAtMenu" "1"
 		"tooltip" "Done for now?"
-	}
-	"ReloadScheme"
-	{
-		"label" "ReloadScheme"
-		"command" "engine hud_reloadscheme"
-		"OnlyInGame" "1"
 	}
 	// These buttons get positioned by the MainMenuOverride.res	
 	"CreateServerButton"
