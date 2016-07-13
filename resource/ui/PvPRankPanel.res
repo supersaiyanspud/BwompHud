@@ -6,7 +6,7 @@
 		"fieldName"		"ModelContainer"
 
 		"xpos"			"cs-0.5-240"
-		"ypos"			"cs-0.5"
+		"ypos"			"cs-0.475"
 
 		"zpos"			"3"		
 		"wide"			"o1"

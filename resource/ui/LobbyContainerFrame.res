@@ -107,7 +107,7 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"				"NoBorder"
+			"border"				"bpborder"
 			"bgcolor_override"		"GrayBG"
 	}				
 	
@@ -126,7 +126,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"HeaderLine"
 			"xpos"			"0"
-			"ypos"			"32"
+			"ypos"			"33"
 			"zpos"			"7"
 			"wide"			"f0"
 			"tall"			"2"
@@ -135,7 +135,7 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"				"NoBorder"
+			"border"				"bpborderless"
 			"bgcolor_override"		"GrayBG"
 		}				
 		
@@ -143,15 +143,15 @@
 		{
 			"textinsetx"		"40"
 			"font"				"HudFontMediumBold"
-			"selectedcolor"		"WhiteS"
-			"unselectedcolor"	"GrayText"	
-			"defaultBgColor_override"	"BlackBorder"
+			"selectedcolor"		"White"
+			"unselectedcolor"	"105 105 105 255"	
+			"defaultBgColor_override"	"GrayBG"
 			"paintbackground"	"1"
-			"activeborder_override"	"NoBorder"
-			"normalborder_override" "NoBorder"
-			"defaultBgColor_override"		"BlackBorder"
-			"unselectedBgColor_override"	"BlackBorder"
-			"depressedBgColor_override"		"BlackBorder"
+			"activeborder_override"	"bpborderless"
+			"normalborder_override" "bpborder"
+			"defaultBgColor_override"		"bpborder"
+			"unselectedBgColor_override"	"bpborder"
+			"depressedBgColor_override"		"White"
 		}
 	}
 	
@@ -170,11 +170,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"FuturaStd-Heavy14"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"back"
+		"border_default"	"aroundWhite"
+		"border_armed"		"aroundWhite"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -193,7 +195,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"FuturaStd-Heavy14"
 		"textAlignment"	"center"
 		"labelText"		"BACK (&Q)"
 		"dulltext"		"0"
@@ -201,6 +203,8 @@
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"border_default"	"aroundWhite"
+		"border_armed"		"aroundWhite"
 	
 	}
 	
@@ -269,11 +273,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"FuturaStd-Heavy14"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"next"
+		"border_default"	"aroundWhite"
+		"border_armed"		"aroundWhite"
 
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -297,12 +303,17 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_Matchmaking_StartParty"
-		"font"			"HudFontSmallBold"
+		"font"			"FuturaStd-Heavy14"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"start_party"
+		"paintbackground"	"1"
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"   "GrayBG"
+		"border_default"	"aroundWhite"
+		"border_armed"		"aroundWhite"
 		
 		
 		"NavUp"			"Sheet"

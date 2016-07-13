@@ -3778,6 +3778,8 @@
 		"Command"		"exitreplayeditor"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"border_default"	"aroundWhite"
+		"border_armed"		"aroundWhite"
 		
 		"image_drawcolor"	"206 192 115 255"
 
