@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"solFontBold24"
+		"font"			"FuturaStd-Heavy24"
 		"fgcolor"		"Health"
 	}
     "PlayerStatusHealthValueShadow"
@@ -88,7 +88,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"solFontBold24"
+		"font"			"FuturaStd-Heavy24"
 		"fgcolor"		"HudShadow"
 	}	    
 }

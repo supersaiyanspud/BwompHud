@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"solFontBold21"
+		"font"			"FuturaStd-Heavy21"
 		"fgcolor"		"Health"
 	}			
 	"PlayerStatusHealthValueSpecShadow"
@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"solFontBold21"
+		"font"			"FuturaStd-Heavy21"
 		"fgcolor"		"HudShadow"
 	}	
 	"HealthBarBuffSpec"

@@ -59,7 +59,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"solFontBold16"
+			"font"			"FuturaStd-Heavy16"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"			"c-116"
@@ -77,7 +77,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"solFontBold16"
+			"font"			"FuturaStd-Heavy16"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"c-110"
@@ -136,7 +136,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"solFontBold16"
+			"font"			"FuturaStd-Heavy16"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
 			"xpos"			"c21"
@@ -154,7 +154,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"solFontBold16"
+			"font"			"FuturaStd-Heavy16"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"c5"
@@ -229,7 +229,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"xpos"			"c-115"
 		"ypos"			"r330"
 		"zpos"			"1"
@@ -249,7 +249,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"xpos"			"c-105"
 		"ypos"			"r315"
 		"zpos"			"3"
@@ -282,7 +282,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"xpos"			"c-120"
 		"ypos"			"r225"
 		"zpos"			"2"
@@ -303,7 +303,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"xpos"			"61"
 		"ypos"			"414"
 		"zpos"			"1"

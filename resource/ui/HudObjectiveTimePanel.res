@@ -13,7 +13,7 @@
         "enabled"                "1"
         "labelText"                "%servertimeleft%"
         "textAlignment"                "center"
-        "font"                        "solFontRegular12"
+        "font"                        "FuturaStd-Medium12"
         "fgcolor"		"White"
     }
     "ServerTimeLimitLabelBG"
@@ -100,7 +100,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"			"White"
 	}			
 	"WaitingForPlayersBG"

@@ -57,7 +57,7 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
-		"font"			"solFontRegular24"
+		"font"			"FuturaStd-Medium24"
 		"fgcolor"		"White"
 	}
 	
@@ -76,7 +76,7 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 	}
 
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CTFRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"xpos"			"251"
 		"ypos"			"180"
 		"zpos"			"3"
@@ -131,7 +131,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Flavor"
@@ -209,7 +209,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"			"Black"
 		"defaultFgColor_override" "Black"
 		"armedFgColor_override" "Black"
@@ -236,7 +236,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Flavor"
@@ -260,7 +260,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"			"White"
 	}
 }

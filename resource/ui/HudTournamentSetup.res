@@ -74,7 +74,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"EnterName"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"Red/Blue"
         "textinsetx"	"0"
 		"use_proportional_insets" "1"
@@ -95,7 +95,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentSetupLabel"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"xpos"			"92"
 		"ypos"			"3"
 		"zpos"			"1"
@@ -115,7 +115,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentTeamNameLabel"
-		"font"			"solFontRegular20"
+		"font"			"FuturaStd-Medium20"
 		"xpos"			"87"
 		"ypos"			"28"
 		"zpos"			"1"
@@ -178,7 +178,7 @@
 		"brighttext"	"0"
 		"command"		"teamnotready"
 		"default"		"1"
-		"font"		    "solFontBold14"
+		"font"		    "FuturaStd-Heavy14"
 		"fgcolor"		"White"
 
 		"border_default"	""
@@ -208,7 +208,7 @@
 		"brighttext"	"0"
 		"command"		"teamready" 
 		"default"		"1"
-		"font"		    "solFontBold14"
+		"font"		    "FuturaStd-Heavy14"
 		"fgcolor"		"White"
 
 		"border_default"	""

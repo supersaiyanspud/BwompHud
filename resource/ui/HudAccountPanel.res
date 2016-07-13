@@ -9,7 +9,7 @@
 		"NegativeColor"			"Red"
 		"zpos"			        "-1"
 		"delta_lifetime"		"0.8"
-		"delta_item_font"		"solFontRegular16"
+		"delta_item_font"		"FuturaStd-Medium16"
 		"textAlignment"	"east"
 	}
 	
@@ -87,7 +87,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"White"
-		"font"			"solFontBold16"
+		"font"			"FuturaStd-Heavy16"
 	}
 	"AccountValueShadow"
 	{
@@ -108,6 +108,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"HudShadow"
-		"font"			"solFontBold16"
+		"font"			"FuturaStd-Heavy16"
 	}
 }

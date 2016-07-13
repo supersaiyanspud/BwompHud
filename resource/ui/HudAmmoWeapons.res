@@ -70,7 +70,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"solFontBold36"
+		"font"			"FuturaStd-Heavy36"
 		"fgcolor"		"White"
 		"xpos"			"c32"
 		"ypos"			"294" // omp -- -9 Mac fix.
@@ -87,7 +87,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"solFontBold36"
+		"font"			"FuturaStd-Heavy36"
 		"fgcolor"		"HudShadow"
 		"xpos"			"c33"
 		"ypos"			"295"
@@ -103,7 +103,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"solFontRegular24"
+		"font"			"FuturaStd-Medium24"
 		"fgcolor"		"White"
 		"xpos"			"c97"
 		"ypos"			"306"
@@ -119,7 +119,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"solFontRegular24"
+		"font"			"FuturaStd-Medium24"
 		"fgcolor"		"HudShadow"
 		"xpos"			"c98"
 		"ypos"			"307.5"
@@ -135,7 +135,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"solFontBold36"
+		"font"			"FuturaStd-Heavy36"
 		"fgcolor"		"White"
 		"xpos"			"c62"
 		"ypos"			"294" // omp -- -9 Mac fix.
@@ -151,7 +151,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"solFontBold36"
+		"font"			"FuturaStd-Heavy36"
 		"fgcolor"		"HudShadow"
 		"xpos"			"c63"
 		"ypos"			"295" // omp -- -9 Mac fix.

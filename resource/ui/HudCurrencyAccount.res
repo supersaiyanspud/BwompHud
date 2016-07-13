@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Currency"
-		"font"			"solFontRegular18"
+		"font"			"FuturaStd-Medium18"
 		"fgcolor"		"White"
 		"xpos"			"r280"		//16
 		"ypos"			"r30"
@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label"
-		"font"			"solFontRegular11"
+		"font"			"FuturaStd-Medium11"
 		"labelText"		"Collected:"
 		"fgcolor"		"Black"
 		"textAlignment"	"center"

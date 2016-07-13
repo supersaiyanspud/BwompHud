@@ -67,7 +67,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"	
-		"font"			"solFontRegular12"
+		"font"			"FuturaStd-Medium12"
 		"fgcolor"		"White"
 		"labeltext"		"%Health%"
 	}								

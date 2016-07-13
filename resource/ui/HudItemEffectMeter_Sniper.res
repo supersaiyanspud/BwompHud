@@ -48,7 +48,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"solFontRegular12"
+		"font"					"FuturaStd-Medium12"
 	}
 
 	"ItemEffectMeter"
@@ -87,7 +87,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"solFontRegular21"
+		"font"					"FuturaStd-Medium21"
 	}
 	
 	"StreakBG"

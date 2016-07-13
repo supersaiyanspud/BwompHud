@@ -75,7 +75,7 @@
         "enabled"       "1"
         "labelText"     "%Health%"
         "textAlignment" "center"   
-        "font"          "solFontBold36"
+        "font"          "FuturaStd-Heavy36"
         "fgcolor"       "White"
  
     }                              
@@ -92,7 +92,7 @@
         "enabled"       "1"
         "labelText"     "%Health%"
         "textAlignment" "center"   
-        "font"          "solFontBold36"
+        "font"          "FuturaStd-Heavy36"
         "fgcolor"       "HudShadow"
        
  

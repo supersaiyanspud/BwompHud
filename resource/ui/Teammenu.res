@@ -125,7 +125,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 		"labelText"		"BLU"
 		"textAlignment"	"center"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 		"labelText"		"RED"
 		"textAlignment"	"center"
@@ -163,7 +163,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RandomLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 		"labelText"		"Random"
 		"textAlignment"	"center"
@@ -182,7 +182,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpectateLabel"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 		"labelText"		"Spectate"
 		"textAlignment"	"center"
@@ -464,7 +464,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 	}		
 	
@@ -485,7 +485,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"White"
 	}	
 	

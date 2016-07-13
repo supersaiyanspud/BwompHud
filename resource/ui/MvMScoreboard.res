@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PopFileLabel"
-		"font"			"solFontRegular12"
+		"font"			"FuturaStd-Medium12"
 		"labelText"		"%popfile%"
 		"textAlignment"	"center"
 		"xpos"			"c-139"
@@ -45,7 +45,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DifficultyLabel"
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
 			"labelText"		"#TF_MvM_Difficulty"
 			"textAlignment"	"west"
 			"xpos"			"c117"
@@ -59,7 +59,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DifficultyValue"
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
 			"labelText"		"%difficultyvalue%"
 			"textAlignment"	"east"
 			"xpos"			"c140"
@@ -202,7 +202,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RespecStatusLabel"
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
 			"labelText"		"%respecstatus%"
 			"textAlignment" "east"
 			"xpos"			"c10"

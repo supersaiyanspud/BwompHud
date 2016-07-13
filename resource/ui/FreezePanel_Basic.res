@@ -39,7 +39,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"solFontRegular10"
+			"font"			"FuturaStd-Medium10"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"
@@ -181,7 +181,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKiller"
-			"font"			"solFontRegular21"
+			"font"			"FuturaStd-Medium21"
 			"xpos"			"8"
 			"ypos"			"18"
 			"zpos"			"1"

@@ -44,7 +44,7 @@
 		"labelText"			"#TF_Ball"
 		"fgcolor_override" "MeterText3"
 		"textAlignment"			"west"
-		"font"				"solFontRegular8"
+		"font"				"FuturaStd-Medium8"
 	}
 
 	"ItemEffectMeter"

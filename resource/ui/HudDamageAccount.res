@@ -9,8 +9,8 @@
 		"PositiveColor"			"Positive"
 		"NegativeColor"			"Damage"
 		"delta_lifetime"		"3.0"
-		"delta_item_font"		"solFontRegular22"
-		"delta_item_font_big"	"solFontRegular22"
+		"delta_item_font"		"FuturaStd-Medium22"
+		"delta_item_font_big"	"FuturaStd-Medium22"
 	}
 
 	
@@ -29,7 +29,7 @@
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"center"
 		"fgcolor"		"Damage"
-		"font"			"solFontRegular21"
+		"font"			"FuturaStd-Medium21"
 	}
 	"DamageAccountValueShadow"
 	{
@@ -46,6 +46,6 @@
 		"delta_lifetime"	"10.0"
 		"textAlignment"	 	"center"
 		"fgcolor"	 		"HudShadow"
-		"font"	 			"solFontRegular21"			
+		"font"	 			"FuturaStd-Medium21"			
 	}
 }

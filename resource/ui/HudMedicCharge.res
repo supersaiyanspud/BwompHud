@@ -98,14 +98,14 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"0 255 200 255"
 	}
 	"ChargeLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"font"			"solFontBold36"
+		"font"			"FuturaStd-Heavy36"
 		"fgcolor"		"White"
 		"xpos"			"489"
 		"ypos"			"294" // omp -- -9 Mac fix.
@@ -122,7 +122,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
-		"font"			"solFontBold36"
+		"font"			"FuturaStd-Heavy36"
 		"fgcolor"		"HudShadow"
 		"xpos"			"490"
 		"ypos"			"295" // omp -- -9 Mac fix.
@@ -187,7 +187,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"solFontBold48"
+		"font"			"FuturaStd-Heavy48"
 	}
 	
 	"ChargeMeter1"

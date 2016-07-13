@@ -83,7 +83,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"solFontRegular24"
+		"font"			"FuturaStd-Medium24"
 		"fgcolor"		"White"
 	}
     "Server"
@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"CTFRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"xpos"			"255"
 		"ypos"			"145"
 		"zpos"			"3"
@@ -167,7 +167,7 @@
 		"paintbackground"	"0"
 		"border_default"	""
 		"border_armed"		""
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Flavor"
@@ -245,7 +245,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"			"Black"
 		"defaultFgColor_override" "Black"
 		"armedFgColor_override" "Black"
@@ -269,7 +269,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"			"White"
 	}
 }

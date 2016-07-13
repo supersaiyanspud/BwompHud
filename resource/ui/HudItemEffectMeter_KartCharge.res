@@ -50,7 +50,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"solFontRegular12"
+		"font"					"FuturaStd-Medium12"
 		"fgcolor_override"		"150 150 150 255"
 	}
 
@@ -90,7 +90,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"solFontBold21"
+		"font"					"FuturaStd-Heavy21"
 	}
 	"ItemEffectMeterCountBG"
 	{
@@ -109,7 +109,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"solFontBold21"
+		"font"					"FuturaStd-Heavy21"
 		"fgcolor_override"		"HudShadow"
 	}
 }

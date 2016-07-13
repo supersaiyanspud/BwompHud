@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
-		"font"			"solFontRegular18"
+		"font"			"FuturaStd-Medium18"
 		"fgcolor"		"White"
 		"xpos"			"r280"
 		"ypos"			"r47"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
-		"font"			"solFontRegular18"
+		"font"			"FuturaStd-Medium18"
 		"fgcolor"		"Red"
 		"xpos"			"r280"
 		"ypos"			"r47"
@@ -82,7 +82,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Label"
-		"font"			"solFontRegular11"
+		"font"			"FuturaStd-Medium11"
 		"labelText"		"Money:"
 		"fgcolor"		"Black"
 		"textAlignment"	"center"

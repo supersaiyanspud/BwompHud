@@ -125,7 +125,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamLabel1"
-		"font"			"solFontBold14"
+		"font"			"FuturaStd-Heavy14"
 		"labelText"		"%blueteamname%"
 		"fgcolor"		"White"
 		"textAlignment"	"west"
@@ -152,7 +152,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamScore"
-		"font"			"solFontBold24"
+		"font"			"FuturaStd-Heavy24"
 		"labelText"		"%blueteamscore%"
 		"fgcolor"		"White"
 		"textAlignment"	"center"
@@ -175,7 +175,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"labelText"		"%blueteamplayercount%"
 		"fgcolor"		"White"
 		"textAlignment"	"east"
@@ -245,7 +245,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedTeamLabel1"
-		"font"			"solFontBold14"
+		"font"			"FuturaStd-Heavy14"
 		"labelText"		"%redteamname%"
 		"fgcolor"		"White"
 		"textAlignment"	"east"
@@ -273,7 +273,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedTeamScore"
-		"font"		"solFontBold24"
+		"font"		"FuturaStd-Heavy24"
 		"labelText"		"%redteamscore%"
 		"fgcolor"		"White"
 		"textAlignment"	"center"
@@ -296,7 +296,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedTeamPlayerCount"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"labelText"		"%redteamplayercount%"
 		"fgcolor"		"White"
 		"textAlignment"	"west"
@@ -321,7 +321,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"labelText"		"%server%"
 		"fgcolor"			"White"
 		"textAlignment"	"west"
@@ -336,7 +336,7 @@
 
 		if_mvm
 		{
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
 			"textAlignment"		"west"
 			"xpos"			"c-290"
 			"ypos"			"r353"
@@ -347,7 +347,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerLabelShadow"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"labelText"		"%server%"
 		"fgcolor"			"Black"
 		"textAlignment"	"west"
@@ -375,8 +375,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLeftValue"
-		"font"			"solFontRegular21"
-		"font_minmode"		"solFontRegular12"
+		"font"			"FuturaStd-Medium21"
+		"font_minmode"		"FuturaStd-Medium12"
 		"labelText"		"%servertime%"
 		"textinsetx"	"0"
 		"textinsetx_minmode"	"0"
@@ -401,7 +401,7 @@
 
 		if_mvm
 		{
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
 			"fgcolor"			"Time"
 			"textAlignment"		"west"
 			"textinsetx"	"0"
@@ -482,7 +482,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"labelText"		"%spectators%"
 		"fgcolor"			"White"
 		"textAlignment"	"north-west"
@@ -508,7 +508,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpectatorsShadow"
-		"font"			"solFontRegular9"
+		"font"			"FuturaStd-Medium9"
 		"labelText"		"%spectators%"
 		"fgcolor"			"Black"
 		"textAlignment"	"north-west"
@@ -533,7 +533,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpectatorsInQueue"
-		"font"			"solFontRegular9Shadow"
+		"font"			"FuturaStd-Medium9Shadow"
 		"fgcolor"			"White"
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"	"south-west"
@@ -639,7 +639,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerScoreLabel"
-		"font"		"solFontRegular9"
+		"font"		"FuturaStd-Medium9"
 		"labelText"		"Score"
 		"textAlignment"	"west"
 		"fgcolor"		"White"
@@ -662,8 +662,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"mapname"
-			"font"			"solFontRegular14"
-			"font_minmode"		"solFontRegular9"
+			"font"			"FuturaStd-Medium14"
+			"font_minmode"		"FuturaStd-Medium9"
 			"labelText"		"%mapname%"
 			"textAlignment"		"center"
 			"textAlignment_minmode"	"east"
@@ -685,7 +685,7 @@
 			if_mvm
 			{
 				"visible" "1"
-				"font"			"solFontRegular14"
+				"font"			"FuturaStd-Medium14"
 				"fgcolor"		"White"
 				"textAlignment"		"center"
 				"xpos"			"c-85"
@@ -939,8 +939,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Kills"
-			"font"			"solFontRegular40"
-			"font_minmode"		"solFontRegular30"
+			"font"			"FuturaStd-Medium40"
+			"font_minmode"		"FuturaStd-Medium30"
 			"labelText"		"%kills%"
 			"textAlignment"	"east"
 			"xpos"			"c-146"
@@ -959,7 +959,7 @@
 			{
 				"textAlignment"	"east"
 				"fgcolor"		"White"
-				"font"		"solFontRegular40"
+				"font"		"FuturaStd-Medium40"
 				"xpos"		"c-374"
 				"ypos"		"r170"
 				"tall"		"41"
@@ -972,8 +972,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Kills2"
-			"font"			"solFontRegular40"
-			"font_minmode"		"solFontRegular30"
+			"font"			"FuturaStd-Medium40"
+			"font_minmode"		"FuturaStd-Medium30"
 			"labelText"		"%kills%"
 			"textAlignment"	"east"
 			"xpos"			"c-146"
@@ -992,7 +992,7 @@
 			{
 				"textAlignment"	"center"
 				"fgcolor"		"White"
-				"font"		"solFontRegular40"
+				"font"		"FuturaStd-Medium40"
 				"xpos"		"c-105"
 				"ypos"		"r180"
 				"tall"		"41"
@@ -1028,8 +1028,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Deaths"
-			"font"			"solFontRegular40"
-			"font_minmode"		"solFontRegular30"
+			"font"			"FuturaStd-Medium40"
+			"font_minmode"		"FuturaStd-Medium30"
 			"labelText"		"%deaths%"
 			"textAlignment"	"west"
 			"xpos"			"c6"
@@ -1046,7 +1046,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular40"
+				"font"		"FuturaStd-Medium40"
 				"fgcolor"		"White"
 				"xpos"		"c-221"
 				"ypos"		"r170"
@@ -1057,8 +1057,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Deaths2"
-			"font"			"solFontRegular40"
-			"font_minmode"		"solFontRegular30"
+			"font"			"FuturaStd-Medium40"
+			"font_minmode"		"FuturaStd-Medium30"
 			"labelText"		"%deaths%"
 			"textAlignment"	"west"
 			"xpos"			"c6"
@@ -1075,7 +1075,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular40"
+				"font"		"FuturaStd-Medium40"
 				"fgcolor"		"White"
 				"textAlignment"	"center"
 				"xpos"		"c-29"
@@ -1087,7 +1087,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"AssistsLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_AssistsLabel"
 			"fgcolor"		"White"
@@ -1105,7 +1105,7 @@
 			if_mvm
 			{
 				"fgcolor"		"White"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-290"
 				"ypos"		"r172"
 				"tall"		"15"
@@ -1115,7 +1115,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Assists"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%assists%"
 			"fgcolor"		"White"
@@ -1134,7 +1134,7 @@
 			{
 				"textAlignment"	"east"
 				"fgcolor"		"White"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r172"
 				"tall"			"15"
@@ -1144,7 +1144,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Assists2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%assists%"
 			"fgcolor"		"White"
@@ -1163,7 +1163,7 @@
 			{
 				"textAlignment"	"east"
 				"fgcolor"		"White"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-281"
 				"ypos"		"r172"
 				"tall"			"15"
@@ -1173,7 +1173,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"CapturesLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_CapturesLabel"
 			"fgcolor"			"White"
@@ -1192,7 +1192,7 @@
 			{
 				"visible" "0"
 				"fgcolor"			"White"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-70"
 				"ypos"		"r162"
 			}
@@ -1201,7 +1201,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Captures"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%captures%"
 			"fgcolor"		"White"
@@ -1221,7 +1221,7 @@
 				"visible" "0"
 				"fgcolor"		"White"
 				"textAlignment"	"east"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r162"
 				"tall"			"15"
@@ -1231,7 +1231,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Captures2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%captures%"
 			"fgcolor"		"White"
@@ -1251,7 +1251,7 @@
 				"visible" "0"
 				"fgcolor"		"White"
 				"textAlignment"	"east"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r162"
 				"tall"			"15"
@@ -1261,7 +1261,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DefensesLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_DefensesLabel"
 			"fgcolor"		"White"
@@ -1279,7 +1279,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-290"
 				"ypos"		"r152"
 			}
@@ -1288,7 +1288,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Defenses"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%defenses%"
 			"fgcolor"		"White"
@@ -1306,7 +1306,7 @@
 				if_mvm
 			{
 				"visible"		"0																"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r152"
 			}
@@ -1315,7 +1315,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Defenses2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%defenses%"
 			"fgcolor"		"White"
@@ -1333,7 +1333,7 @@
 				if_mvm
 			{
 				"visible"		"1"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-281"
 				"ypos"		"r152"
 			}
@@ -1342,7 +1342,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DominationLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_DominationLabel"
 			"fgcolor"		"White"
@@ -1359,7 +1359,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-70"
 				"ypos"		"r142"
 			}
@@ -1368,7 +1368,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Domination"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%dominations%"
 			"fgcolor"		"White"
@@ -1385,7 +1385,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r142"
 			}
@@ -1394,7 +1394,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RevengeLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_RevengeLabel"
 			"fgcolor"		"White"
@@ -1411,7 +1411,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-70"
 				"ypos"		"r132"
 			}
@@ -1420,7 +1420,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Revenge"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%Revenge%"
 			"fgcolor"		"White"
@@ -1437,7 +1437,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r132"
 			}
@@ -1447,7 +1447,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DestructionLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_DestructionLabel"
 			"fgcolor"		"White"
@@ -1465,7 +1465,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-70"
 				"ypos"		"r132"
@@ -1475,7 +1475,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Destruction"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%destruction%"
 			"fgcolor"		"White"
@@ -1492,7 +1492,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r132"
@@ -1502,7 +1502,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Destruction2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%destruction%"
 			"fgcolor"		"White"
@@ -1520,7 +1520,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r132"
@@ -1530,7 +1530,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"HealingLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_HealingLabel"
 			"fgcolor"		"White"
@@ -1554,7 +1554,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"HealingLabel2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Healing"
 			"fgcolor"		"White"
@@ -1581,7 +1581,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Healing"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%healing%"
 			"fgcolor"		"White"
@@ -1602,7 +1602,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Healing2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%healing%"
 			"fgcolor"		"White"
@@ -1620,7 +1620,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"textAlignment_minmode"	"east"
 				"xpos"		"c128"
@@ -1632,7 +1632,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"InvulnLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_InvulnLabel"
 			"fgcolor"		"White"
@@ -1649,7 +1649,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c118"
 				"ypos"		"r162"
@@ -1659,7 +1659,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Invuln"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%invulns%"
 			"fgcolor"		"White"
@@ -1676,7 +1676,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c128"
 				"ypos"		"r162"
@@ -1687,7 +1687,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Invuln2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%invulns%"
 			"fgcolor"		"White"
@@ -1704,7 +1704,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c128"
 				"ypos"		"r162"
@@ -1715,7 +1715,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"HeadshotsLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_HeadshotsLabel"
 			"fgcolor"		"White"
@@ -1733,7 +1733,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c118"
 				"ypos"		"r152"
@@ -1743,7 +1743,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Headshots"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%headshots%"
 			"fgcolor"		"White"
@@ -1760,7 +1760,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c128"
 				"ypos"		"r152"
@@ -1771,7 +1771,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Headshots2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%headshots%"
 			"fgcolor"		"White"
@@ -1789,7 +1789,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c128"
 				"ypos"		"r152"
@@ -1800,7 +1800,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BackstabsLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_BackstabsLabel"
 			"fgcolor"		"White"
@@ -1818,7 +1818,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c118"
 				"ypos"		"r142"
@@ -1828,7 +1828,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Backstabs"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%backstabs%"
 			"fgcolor"		"White"
@@ -1845,7 +1845,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c128"
 				"ypos"		"r142"
@@ -1856,7 +1856,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Backstabs2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%backstabs%"
 			"fgcolor"		"White"
@@ -1875,7 +1875,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c128"
 				"ypos"		"r142"
@@ -1887,7 +1887,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TeleportsLabel"
 			"font_minmode"		"ScoreboardVerySmall"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"labelText"		"#TF_ScoreBoard_TeleportsLabel"
 			"fgcolor"		"White"
 			"textAlignment"		"west"
@@ -1907,7 +1907,7 @@
 				"visible" "1"
 				"fgcolor"			"White"
 				"fgcolor"			"White"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-290"
 				"ypos"		"r162"
 			}
@@ -1916,7 +1916,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Teleports"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%teleports%"
 			"fgcolor"		"White"
@@ -1936,7 +1936,7 @@
 				"visible" "0"
 				"fgcolor"		"White"
 				"textAlignment"	"east"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-61"
 				"ypos"		"r162"
 				"tall"			"15"
@@ -1946,7 +1946,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Teleports2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%teleports%"
 			"fgcolor"		"White"
@@ -1967,7 +1967,7 @@
 				"visible" "1"
 				"fgcolor"		"White"
 				"textAlignment"	"east"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-281"
 				"ypos"		"r162"
 				"tall"			"15"
@@ -1977,7 +1977,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BonusLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_BonusLabel"
 			"fgcolor"		"White"
@@ -1994,7 +1994,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"		"c-290"
 				"ypos"		"r142"
 				"visible"		"1"
@@ -2004,7 +2004,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Bonus"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%bonus%"
 			"fgcolor"		"White"
@@ -2021,7 +2021,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r142"
@@ -2031,7 +2031,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Bonus2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%bonus%"
 			"fgcolor"		"White"
@@ -2048,7 +2048,7 @@
 
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c-281"
 				"ypos"		"r142"
@@ -2058,7 +2058,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SupportLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_Scoreboard_Support"
 			"textAlignment"	"west"
@@ -2076,7 +2076,7 @@
 			
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"c117"
 				"ypos"		"r172"
@@ -2086,7 +2086,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SupportLabel2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Support"
 			"textAlignment"	"west"
@@ -2104,7 +2104,7 @@
 			
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"1"
 				"xpos"		"439"
 				"ypos"		"108"
@@ -2114,7 +2114,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Support"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"labelText"		"%support%"
 			"textAlignment"		"east"
 			"xpos"			"c-255"
@@ -2129,7 +2129,7 @@
 			
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r142"
@@ -2139,7 +2139,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Support2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"labelText"		"%support%"
 			"textAlignment"		"east"
 			"xpos"			"c-255"
@@ -2154,7 +2154,7 @@
 			
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r142"
@@ -2164,7 +2164,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DamageLabel"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"#TF_ScoreBoard_Damage"
 			"fgcolor"		"White"
@@ -2191,7 +2191,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DamageLabel2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Damage"
 			"fgcolor"		"White"
@@ -2216,7 +2216,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Damage"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%damage%"
 			"fgcolor"		"White"
@@ -2234,7 +2234,7 @@
 			
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r142"
@@ -2244,7 +2244,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Damage2"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"%damage%"
 			"fgcolor"		"White"
@@ -2262,7 +2262,7 @@
 			
 			if_mvm
 			{
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"		"c-61"
 				"ypos"		"r242"
@@ -2272,7 +2272,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Tank1"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Tank"
 			"fgcolor"		"White"
@@ -2297,7 +2297,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Money1"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Money"
 			"fgcolor"		"White"
@@ -2322,7 +2322,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Ping"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Ping"
 			"fgcolor"		"White"
@@ -2347,7 +2347,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Tourno"
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
 			"font_minmode"		"ScoreboardVerySmall"
 			"labelText"		"Tour"
 			"fgcolor"		"White"
@@ -2432,8 +2432,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"gametype"
-			"font"			"solFontRegular9"
-			"font_minmode"		"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
+			"font_minmode"		"FuturaStd-Medium9"
 			"labelText"		"%gametype%"
 			"textAlignment"		"center"
 			"textAlignment_minmode"	"east"
@@ -2454,7 +2454,7 @@
 
 			if_mvm
 			{
-				"font"			"solFontRegular9"
+				"font"			"FuturaStd-Medium9"
 				"visible"		"0"
 				"xpos"			"c-241"
 				"ypos"			"r158"

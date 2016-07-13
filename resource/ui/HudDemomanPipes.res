@@ -33,7 +33,7 @@
 		"fgcolor_override" "White"
 		"labelText"				"#TF_Charge"
 		"textAlignment"			"west"
-		"font"					"solFontRegular8"
+		"font"					"FuturaStd-Medium8"
 	}
 	"ChargeMeter"
 	{	
@@ -100,7 +100,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"solFontRegular18"
+			"font"			"FuturaStd-Medium18"
 			"fgcolor"		"White"
 		}		
 		"NumPipesLabelShadow"
@@ -121,7 +121,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"solFontRegular18"
+			"font"			"FuturaStd-Medium18"
 			"fgcolor"		"HudShadow"
 		}		
 	}

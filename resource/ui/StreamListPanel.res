@@ -17,7 +17,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"HeaderLabel"
-			"font"			"solFontBold14"
+			"font"			"FuturaStd-Heavy14"
 			"textAlignment"	"west"
 			"labelText"		"#MMenu_Stream_Title"
 			"xpos"			"5"
@@ -179,7 +179,7 @@
 		"labelText"		"#MMenu_Stream_ViewMore"
 		"textinsetx"	"20"
 		"use_proportional_insets" "1"
-		"font"			"solFontBold14"
+		"font"			"FuturaStd-Heavy14"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

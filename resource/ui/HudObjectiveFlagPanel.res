@@ -159,7 +159,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"solFontRegular18"
+		"font"			"FuturaStd-Medium18"
 		"fgcolor"		"White"
 		
 		"if_hybrid"
@@ -190,7 +190,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"solFontRegular18"
+		"font"			"FuturaStd-Medium18"
 		"fgcolor"		"White"	
 		
 		"if_hybrid"
@@ -255,7 +255,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"White"
 		
 		"if_hybrid"

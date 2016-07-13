@@ -27,7 +27,7 @@
 		"use_proportional_insets" "0"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"solFontRegular21"			
+		"font"			"FuturaStd-Medium21"			
 		"fgcolor_override" "Time"
 	}
 	"BuyBackLabel"
@@ -132,7 +132,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"solFontRegular10"
+			"font"			"FuturaStd-Medium10"
 			"xpos"			"5"
 			"ypos"			"-1"
 			"zpos"			"1"

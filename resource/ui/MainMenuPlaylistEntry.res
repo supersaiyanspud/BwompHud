@@ -49,7 +49,7 @@
 		"tabPosition"	"0"		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
-		"font"			"solFontBold14"
+		"font"			"FuturaStd-Heavy14"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"

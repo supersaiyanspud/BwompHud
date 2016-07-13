@@ -63,7 +63,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"solFontRegular24"
+		"font"			"FuturaStd-Medium24"
 		"xpos"			"5"			// align me to the left edge of the first selection
 		"ypos"			"-5"
 		"zpos"			"3"
@@ -83,7 +83,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"solFontRegular36"
+		"font"			"FuturaStd-Medium36"
 		"fgcolor"		"Black"
 		"xpos"			"60"			// align me to the left edge of the first selection
 		"ypos"			"6"
@@ -124,7 +124,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"xpos"			"250"
 		"ypos"			"5"
 		"zpos"			"2"
@@ -195,7 +195,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"32"
 		"ypos"			"75"
@@ -267,7 +267,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"87"
 		"ypos"			"75"
@@ -339,7 +339,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"142"
 		"ypos"			"75"
@@ -411,7 +411,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel4"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"197"
 		"ypos"			"75"
@@ -483,7 +483,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel5"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"252"
 		"ypos"			"75"
@@ -555,7 +555,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel6"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"307"
 		"ypos"			"75"
@@ -627,7 +627,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel7"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"362"
 		"ypos"			"75"
@@ -699,7 +699,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel8"
-		"font"			"solFontRegular14"
+		"font"			"FuturaStd-Medium14"
 		"fgcolor"		"white"
 		"xpos"			"417"
 		"ypos"			"75"

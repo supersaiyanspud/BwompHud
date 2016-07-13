@@ -26,7 +26,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"White"
 		"xpos"			"c-70"
 		"ypos"			"0"
@@ -69,7 +69,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SupportLabel"
-		"font"			"solFontRegular8"
+		"font"			"FuturaStd-Medium8"
 		"fgcolor"		"Blank"
 		"xpos"			"55"
 		"ypos"			"11"

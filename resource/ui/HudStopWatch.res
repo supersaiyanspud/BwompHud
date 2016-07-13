@@ -77,7 +77,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"solFontRegular21"
+			"font"			"FuturaStd-Medium21"
 			"fgcolor"		"White"
 			"xpos"			"c25"
 			"ypos"			"2"
@@ -90,7 +90,7 @@
 			
 			if_comp
 			{
-				"font"		"solFontRegular14"
+				"font"		"FuturaStd-Medium14"
 				"xpos"		"c-47"
 				"ypos"		"20"
 			}
@@ -100,7 +100,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelLabel"
-			"font"			"solFontRegular14"
+			"font"			"FuturaStd-Medium14"
 			"fgcolor"	    "White"
 			"labelText"		"CAPS"
 			"textAlignment"	"center"
@@ -127,7 +127,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"StopWatchScoreToBeat"
-		"font"			"solFontRegular21"
+		"font"			"FuturaStd-Medium21"
 		"labelText"		"%scoretobeat%"
 		"textAlignment"		"center"
 		"fgcolor"		"White"
@@ -147,14 +147,14 @@
 		{
 			"xpos"	"c-27"
 			"ypos"	"20"
-			"font"	"solFontRegular14"
+			"font"	"FuturaStd-Medium14"
 		}
 	}
 	"StopWatchPointsLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		    "StopWatchPointsLabel"
-		"font"			    "solFontRegular16"
+		"font"			    "FuturaStd-Medium16"
 		"labelText"		    ""
 		"textAlignment"		"center"
 		"fgcolor"		    "White"

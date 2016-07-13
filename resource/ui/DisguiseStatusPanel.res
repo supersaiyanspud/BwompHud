@@ -66,7 +66,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"solFontRegular12"
+		"font"			"FuturaStd-Medium12"
 		"xpos"			"71"
 		"ypos"			"377"
 		"zpos"			"1"
@@ -83,7 +83,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"solFontRegular11"
+		"font"			"FuturaStd-Medium11"
 		"xpos"			"71"
 		"ypos"			"390"
 		"zpos"			"1"
@@ -99,7 +99,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponNameLabelShadow"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"xpos"			"51"
 		"ypos"			"442"
 		"zpos"			"1"

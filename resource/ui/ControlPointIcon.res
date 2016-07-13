@@ -110,7 +110,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CapNumPlayers"
-		"font"			"solFontRegular12"
+		"font"			"FuturaStd-Medium12"
 		"xpos"			"10"
 		"ypos"			"-6"
 		"zpos"			"4"

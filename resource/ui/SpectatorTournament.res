@@ -83,7 +83,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
-				"font"		"solFontRegular10"
+				"font"		"FuturaStd-Medium10"
 				"xpos"			"15"
 				"ypos"			"1"
 				"zpos"			"5"
@@ -213,7 +213,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"solFontRegular11"
+				"font"		"FuturaStd-Medium11"
 				"xpos"			"108"
 				"ypos"			"0"
 				"zpos"			"6"
@@ -272,7 +272,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
-				"font"		"solFontRegular10"
+				"font"		"FuturaStd-Medium10"
 				"xpos"			"87"
 				"ypos"			"1"
 				"zpos"			"8"
@@ -352,7 +352,7 @@
 		"use_proportional_insets" "0"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"solFontRegular21"			
+		"font"			"FuturaStd-Medium21"			
 		"fgcolor_override" "Time"
 	
 
@@ -510,7 +510,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"solFontRegular10"
+			"font"			"FuturaStd-Medium10"
 			"xpos"			"5"
 			"ypos"			"-1"
 			"zpos"			"1"

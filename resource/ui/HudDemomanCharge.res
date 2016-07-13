@@ -15,7 +15,7 @@
 		"fgcolor_override"      "White"
 		"labelText"				"BOMB"
 		"textAlignment"			"west"
-		"font"					"solFontRegular8"
+		"font"					"FuturaStd-Medium8"
 	}	
 	"ChargeMeter"
 	{	

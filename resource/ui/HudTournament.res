@@ -135,7 +135,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"		"solFontRegular9"
+				"font"		"FuturaStd-Medium9"
 				"xpos"			"5"
 				"ypos"			"24"
 				"zpos"			"5"
@@ -154,7 +154,7 @@
 					"ypos"				"25"
 					"wide"				"60"
 					"textAlignment"		"center"
-					"font"				"solFontRegular9"
+					"font"				"FuturaStd-Medium9"
 					"fgcolor"			"White"
 				}
 				if_competitive
@@ -164,7 +164,7 @@
 					"wide"				"p0.9"
 					"tall"				"p0.25"
 					"textAlignment"		"center"
-					"font"				"solFontRegular9"
+					"font"				"FuturaStd-Medium9"
 					"fgcolor"			"White"
 					"proportionaltoparent"	"1"
 				}
@@ -174,7 +174,7 @@
 					"ypos"				"24"
 					"wide"				"48"
 					"textAlignment"		"center"
-					"font"				"solFontRegular9"
+					"font"				"FuturaStd-Medium9"
 					"fgcolor"			"White"
 				}
 			}
@@ -593,7 +593,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"solFontBold18"
+		"font"			"FuturaStd-Heavy18"
 		"xpos"			"c-146"
 		"ypos"			"-1"
 		"zpos"			"2"
@@ -621,7 +621,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"solFontBold12"
+		"font"			"FuturaStd-Heavy12"
 		"xpos"			"c-160"
 		"ypos"			"-1"
 		"zpos"			"3"
@@ -649,7 +649,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"solFontBold18"
+		"font"			"FuturaStd-Heavy18"
 		"xpos"			"c"
 		"ypos"			"-1"
 		"zpos"			"2"
@@ -677,7 +677,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"solFontBold12"
+		"font"			"FuturaStd-Heavy12"
 		"xpos"			"c4"
 		"ypos"			"-1"
 		"zpos"			"3"
@@ -705,7 +705,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"solFontRegular10"
+		"font"			"FuturaStd-Medium10"
 		"fgcolor"		"White"
         "textinsetx"	"0"
 		"use_proportional_insets" "1"
@@ -735,7 +735,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReadyUpLabel"
-		"font"			"solFontRegular12"
+		"font"			"FuturaStd-Medium12"
 		"fgcolor"		"White"
         "textinsetx"	"0"
 		"use_proportional_insets" "0"
@@ -776,7 +776,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"solFontRegular12"
+		"font"			"FuturaStd-Medium12"
 		"fgcolor"		"White"
 		"xpos"			"c-60"
 		"ypos"			"28"
@@ -793,7 +793,7 @@
         
         if_mvm
 		{
-			"font"			"solFontRegular9"
+			"font"			"FuturaStd-Medium9"
             "textAlignment"		"center"
 			"xpos"			"218"
 			"ypos"			"100"
@@ -804,7 +804,7 @@
 		}
 		if_competitive
 		{
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
             "textAlignment"		"center"
 			"xpos"			"c-40"
 			"ypos"			"28"
@@ -815,7 +815,7 @@
 		}
 		if_readymode
 		{
-			"font"			"solFontRegular12"
+			"font"			"FuturaStd-Medium12"
             "textAlignment"		"center"
 			"xpos"			"c-35"
 			"ypos"			"28"

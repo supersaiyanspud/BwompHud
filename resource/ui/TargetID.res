@@ -86,7 +86,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
-		"font"			"solFontRegular14"				//Medium12
+		"font"			"FuturaStd-Medium14"				//Medium12
 		"xpos"			"58"
 		"ypos"			"13"	
 		"zpos"			"2"
@@ -128,7 +128,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"solFontRegular11"
+		"font"			"FuturaStd-Medium11"
 		"xpos"			"57"
 		"ypos"			"-1"		
 		"zpos"			"4"

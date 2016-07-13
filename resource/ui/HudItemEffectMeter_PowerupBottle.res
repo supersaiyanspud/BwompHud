@@ -101,7 +101,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"	        	"White"
-		"font"					"solFontBold18"
+		"font"					"FuturaStd-Heavy18"
 	}
     "Label"
 	{
