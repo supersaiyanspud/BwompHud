@@ -30,7 +30,6 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
 			"ypos"					"0"
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
@@ -49,7 +48,7 @@
 			"font_minmode"	"HudFontSmall"
 			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
-			"xpos"			"23"
+			"xpos"			"20"
 			"ypos"			"11"
 			"zpos"			"3"
 			"wide"			"45"
@@ -61,13 +60,8 @@
 
 			if_match
 			{
-				"proportionaltoparent"	"1"
-
-				"xpos"			"15"
-				"ypos"			"12"
-				"tall"			"10"
-				"wide"			"35"
-				"font"			"HudFontSmall"
+				"xpos"			"20"		
+				"ypos"			"26"
 			
 			}
 		}	
@@ -95,7 +89,6 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
 			"ypos"					"0"
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"
@@ -112,7 +105,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"fgcolor"		"TanLight"
-			"xpos"			"23"
+			"xpos"			"20"
 			"ypos"			"11"
 			"zpos"			"3"
 			"wide"			"45"
@@ -124,29 +117,59 @@
 
 			if_match
 			{
-				"proportionaltoparent"	"1"
-
-				"xpos"			"rs1-15"
-				"ypos"			"12"
-				"wide"			"35"
-				"tall"			"10"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"xpos"			"20"
+				"ypos"			"26"
 			
 			}
 		}	
 	}
-	
+	"RedBG"
+    {
+        "ControlName"	"ImagePanel"
+        "fieldName"		"RedBG"
+        "xpos"          "113"	//80
+        "ypos"          "15"
+        "zpos"          "-8"
+        "wide"          "40"	//80
+        "tall"          "20"
+        "fillcolor"		"Red"	//255 255 255 150
+        "visible"		"1"
+        "enabled"		"1"
+		if_match
+		{
+			"proportionaltoparent"	"1"
+			"ypos"			"30"
+		
+		}
+    }
+    "BlueBG"
+    {
+        "ControlName"	"ImagePanel"
+        "fieldName"		"BlueBG"
+        "xpos"          "23"	//20
+        "ypos"          "15"
+        "zpos"          "-8"
+        "wide"          "40"	//80
+        "tall"          "20"
+        "fillcolor"		"Blue"	//255 255 255 150
+        "visible"		"1"
+        "enabled"		"1"
+		if_match
+		{
+			"proportionaltoparent"	"1"
+			"ypos"			"30"
+		
+		}
+    }
 	"ActiveTimerBG"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
-		"xpos"				"0"
-		"ypos"				"9"
+		"xpos"				"8"
+		"ypos"				"12"
 		"zpos"				"1"
-		"wide"				"78"
-		"tall"				"33"
+		"wide"				"45"
+		"tall"				"25"
 		"visible"			"0"
 		"enabled"			"1"
 		"image"				"../hud/objectives_timepanel_active_bg"	

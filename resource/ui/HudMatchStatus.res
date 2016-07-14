@@ -248,7 +248,7 @@
 
 		if_match
 		{
-			"ypos_minmode"			"0"
+			"ypos"			"10"
 			"delta_item_x"			"31"
 			"delta_item_start_y"	"23"
 			"delta_item_end_y"		"43"
@@ -264,11 +264,11 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"fgcolor"		"White"
-			"xpos"			"27"
+			"xpos"			"0"
 			"ypos"			"5"
 			"zpos"			"3"
 			"wide"			"45"
-			"tall"			"15"
+			"tall"			"150"
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"
@@ -276,8 +276,7 @@
 
 			if_match
 			{
-				"ypos"			"9"
-				"ypos_minmode"	"9"
+				"ypos"			"120"
 			}
 		}	
 	}

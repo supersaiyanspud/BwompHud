@@ -120,9 +120,9 @@
 			}
 		}
 	}	
-	"Background1"				//This is the sfm artwork (Non-Gif)
+	"Background"				//This is the sfm artwork (Non-Gif)
 	{
-		"ControlName"	"ImagePanel1"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"ScalableBackground"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
@@ -205,10 +205,10 @@
        }
 	}
 
-	"Background" 					//This is the Animated Background (Gif)
+	"Background1" 					//This is the Animated Background (Gif)
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ScalableBackground"
+		"ControlName"	"ImagePanel1"
+		"fieldName"		"ScalableBackground1"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"-200"					//If you would like to have the animated background disabled,
