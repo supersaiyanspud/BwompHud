@@ -1,0 +1,7 @@
+hudanimations_manifest
+{
+
+	"file" "scripts/HudAnimations_custom.txt"
+	"file" "scripts/hudanimations.txt"
+	"file" "scripts/hudanimations_tf.txt"
+}
