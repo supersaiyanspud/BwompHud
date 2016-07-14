@@ -3,7 +3,7 @@
 	"HudName"
 	{
 		"label" "SpudHUD"
-		"command" "engine con_enable 1; showconsole; clear; echo BWHUD + OMPHUD.; play vo/heavy_needdispenser01.mp3"
+		"command" "engine con_enable 1; showconsole; clear; echo Thanks for choosing SpudHUD!.; play vo/heavy_needdispenser01.mp3"
 		"OnlyAtMenu"	"1"
 	}
 	"Desc"
@@ -18,7 +18,7 @@
 		"label" "#MMenu_FindAGame" 
 		"command" "toggle_play_menu"	
 		"OnlyAtMenu" 	"1"
-		"tooltip" "Quick Play"
+		"tooltip" "Play Team Fortress 2"
 	}
 
 	"FindAGameButtonHalfWidth"
