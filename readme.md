@@ -2,7 +2,7 @@
 A TF2 HUD that was inspired by OMPHUD and BwHUD
 
 **Customising Your HUD:**
-If you would like to make personal changes to the hud i'd recommend using NotePad++: http://notepad-plus-plus.org/
+If you would like to make personal changes to the hud I'd recommend using NotePad++: http://notepad-plus-plus.org/
 
 **Hud Steam Group:**
 If you have and problems/questions be sure to ask them here: http://steamcommunity.com/groups/SpudHUD
