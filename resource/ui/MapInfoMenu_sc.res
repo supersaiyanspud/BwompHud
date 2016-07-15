@@ -134,6 +134,27 @@
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
+
+	"MapInfoContinueHintIcon" [$WIN32]
+	{
+		"ControlName"	"CSCHintIcon"
+		"fieldName"		"MapInfoContinueHintIcon"
+		"font"			"GameUIButtonsSteamControllerSmallest"
+		"xpos"			"r185"
+		"ypos"			"r45"
+		"zpos"			"7"
+		"wide"			"40"
+		"tall"			"40"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"actionSet"		"InGameHUDControls"
+		"actionName"	"menu_select"
+	}
 	
 	"MapInfoWatchIntro" [$WIN32]
 	{
@@ -159,6 +180,28 @@
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
+
+	"MapInfoIntroHintIcon" [$WIN32]
+	{
+		"ControlName"	"CSCHintIcon"
+		"fieldName"		"MapInfoIntroHintIcon"
+		"font"			"GameUIButtonsSteamControllerSmallest"
+		"xpos"			"c-45"
+		"ypos"			"r45"
+		"zpos"			"7"
+		"wide"			"40"
+		"tall"			"40"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"Y"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"actionSet"		"InGameHUDControls"
+		"actionName"	"menu_toggle_function"
+	}
 	
 	"MapInfoBack" [$WIN32]
 	{
@@ -183,6 +226,27 @@
 		"command"		"back"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
+	}
+
+	"MapInfoBackHintIcon" [$WIN32]
+	{
+		"ControlName"	"CSCHintIcon"
+		"fieldName"		"MapInfoBackHintIcon"
+		"font"			"GameUIButtonsSteamControllerSmallest"
+		"xpos"			"45"
+		"ypos"			"r45"
+		"zpos"			"7"
+		"wide"			"40"
+		"tall"			"40"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"actionSet"		"InGameHUDControls"
+		"actionName"	"menu_cancel"
 	}
 	
 	"MenuBG"
