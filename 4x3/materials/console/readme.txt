@@ -1,0 +1,1 @@
+To swap between the 6's background and the 9's background, go into the 6's folder and replace the files in console
