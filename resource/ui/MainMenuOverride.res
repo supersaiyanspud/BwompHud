@@ -13,8 +13,8 @@
 		
 		"bgcolor_override"	"0 0 0 0"
 		
-		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
-		"blog_url"		"http://www.teamfortress.com/"
+		"update_url"	"https://i58.tf/"
+		"blog_url"		"https://i58.tf/"
 		
 		"button_x_offset"	"-300"				
 		"button_y"			"145"
@@ -120,17 +120,17 @@
 			}
 		}
 	}	
-	"Background"				//This is the sfm artwork (Non-Gif)
+	"Background1"				//This is the sfm artwork (Non-Gif)
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"ScalableBackground"
+		"fieldName"		"ScalableBackground1"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"-200"							//If you would like to have the sfm art background enabled,
 		"wide"			"o1.6"	                        // change the values of "enabled" and "visible" of the gif background to "0"
 		"tall"			"f0"		        			// Also add a 1 to the end of both "Background"s 
-		"visible"		"1"								//so it looks like "Background1" "fieldname" "Background1"
-		"enabled"		"1"								// To re-enable it, remove the 1's and set visible/enabled to "1"
+		"visible"		"0"								//so it looks like "Background1" "fieldname" "Background1"
+		"enabled"		"0"								// To re-enable it, remove the 1's and set visible/enabled to "1"
 		"image"			""
 		"scaleImage"	"1"
 		"proportionaltoparent"  "1"
@@ -205,10 +205,10 @@
        }
 	}
 
-	"Background1" 					//This is the Animated Background (Gif)
+	"Background" 					//This is the Animated Background (Gif)
 	{
-		"ControlName"	"ImagePanel1"
-		"fieldName"		"ScalableBackground1"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ScalableBackground"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"-200"					//If you would like to have the animated background disabled,
@@ -870,7 +870,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_TitleLabel"
 			"font"			"HudFontSmallBold"
-			"labelText"		"%motdtitle%"
+			"labelText"		"Insomnia 58!"
 			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"25"
@@ -889,7 +889,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_Label"
 			"font"			"HudFontSmall"
-			"labelText"		"%motddate%"
+			"labelText"		"August 26-28"
 			"textAlignment"	"north-west"
 			"xpos"			"10"
 			"ypos"			"40"
@@ -913,7 +913,7 @@
 			"tall"			"180"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"item_bg"
+			"image"			"replay/thumbnails/i58"
 			"scaleImage"	"1"
 		}
 		
@@ -937,9 +937,9 @@
 				"zpos"			"100"
 				"wide"			"280"
 				"tall"			"280"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"class_icons/filter_all"
+				"visible"		"0"
+				"enabled"		"0"
+				"image"			"replay/thumbnails/i58"
 				"scaleImage"	"0"
 			}
 		}
@@ -970,8 +970,9 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"MOTD_TextLabel"
-					"font"			"HudFontSmall"
-					"labelText"		"%motdtext%"
+					"font"			"FuturaStd-Medium14"
+					"labelText"		"The Multiplay Insomnia Gaming Festival is one of the biggest annual gaming tournaments, not to mention one of the highest profile TF2 competitions in the world. This year boasts being the biggest one yet! Featuring GAME Fest for the first time, the show and the expo halls will be open an extra day, running from Friday, August 26th to Monday, August 30th in Birmingham, England at the NEC.
+									 Check out the Team Fortress 2 Open from the 26th to the 28th. Sixty-four teams will go head-to-head in competitive 6s, including American team Froyotech and Australian team Jasmine Tea. Both teams were once again crowdfunded by the the best community in gaming history. Can't make it to Birmingham in time? No problem, the tournament will be streamed on Twitch, so tune in and catch all the action! "
 					"textAlignment"	"north-west"
 					"xpos"			"0"
 					"ypos"			"0"
@@ -2445,8 +2446,8 @@
 			"ypos"          "20"
 			"zpos"          "0"
 			"wide"          "260"
-			"tall"          "120"
-			"visible"       "1"
+			"tall"          "100"
+			"visible"       "0"
 			"PaintBackgroundType"   "0"
 			"proportionaltoparent"  "1"
 	
@@ -2466,7 +2467,7 @@
 				"tall"          "30"
 				"autoResize"    "0"
 				"pinCorner"     "0"
-				"visible"       "1"
+				"visible"       "0"
 				"enabled"       "1"
 				"textinsetx"    "0"
 				"fgcolor_override"  "235 227 203 255"
@@ -2499,7 +2500,7 @@
 				"zpos"          "11"
 				"wide"          "p0.48"
 				"tall"          "26"
-				"visible"       "1"
+				"visible"       "0"
 				"PaintBackgroundType"   "0"
 				"proportionaltoparent"  "1"
 	
@@ -2513,7 +2514,7 @@
 					"tall"          "f0"
 					"autoResize"    "0"
 					"pinCorner"     "3"
-					"visible"       "1"
+					"visible"       "0"
 					"enabled"       "1"
 					"tabPosition"   "0"
 					"use_proportional_insets" "1"
@@ -2569,7 +2570,7 @@
 				"zpos"          "11"
 				"wide"          "p0.48"
 				"tall"          "26"
-				"visible"       "1"
+				"visible"       "0"
 				"PaintBackgroundType"   "0"
 				"proportionaltoparent"  "1"
 	
@@ -2583,7 +2584,7 @@
 					"tall"          "f0"
 					"autoResize"    "0"
 					"pinCorner"     "3"
-					"visible"       "1"
+					"visible"       "0"
 					"enabled"       "1"
 					"tabPosition"   "0"
 					"use_proportional_insets" "1"
@@ -2619,8 +2620,8 @@
 				"xpos"                  "5"
 				"ypos"                  "p0.47"
 				"zpos"                  "100"
-				"wide"                  "f10"
-				"tall"                  "p0.5"
+				"wide"                  "260"
+				"tall"                  "100"
 				"visible"               "1"
 				"enabled"               "1"
 				"scaleImage"            "1"

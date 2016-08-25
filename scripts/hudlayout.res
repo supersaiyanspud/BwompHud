@@ -924,7 +924,7 @@
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-190"
+		"xpos"		"100"
 		"ypos"		"273"
 		"wide"	 	"f0"
 		"tall"	 	"50"
