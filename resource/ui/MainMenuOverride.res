@@ -13,8 +13,8 @@
 		
 		"bgcolor_override"	"0 0 0 0"
 		
-		"update_url"	"https://i58.tf/"
-		"blog_url"		"https://i58.tf/"
+		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
+		"blog_url"		"http://www.teamfortress.com/"
 		
 		"button_x_offset"	"-300"				
 		"button_y"			"145"
@@ -783,7 +783,7 @@
 				"fieldName"		"MOTD_HeaderLabel"
 				"font"			"FuturaStd-Heavy14"
 				"textAlignment"	"center"
-				"labelText"		"%motdheader%"
+				"labelText"		"News"
 				"xpos"			"0"
 				"ypos"			"0"
 				"wide"			"300"
@@ -870,7 +870,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_TitleLabel"
 			"font"			"HudFontSmallBold"
-			"labelText"		"Insomnia 58!"
+			"labelText"		"Tip of the Hats 2016!"
 			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"25"
@@ -889,7 +889,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_Label"
 			"font"			"HudFontSmall"
-			"labelText"		"August 26-28"
+			"labelText"		"September 16-18, 11AM-11PM CDT"
 			"textAlignment"	"north-west"
 			"xpos"			"10"
 			"ypos"			"40"
@@ -971,8 +971,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"MOTD_TextLabel"
 					"font"			"FuturaStd-Medium14"
-					"labelText"		"The Multiplay Insomnia Gaming Festival is one of the biggest annual gaming tournaments, not to mention one of the highest profile TF2 competitions in the world. This year boasts being the biggest one yet! Featuring GAME Fest for the first time, the show and the expo halls will be open an extra day, running from Friday, August 26th to Monday, August 30th in Birmingham, England at the NEC.
-									 Check out the Team Fortress 2 Open from the 26th to the 28th. Sixty-four teams will go head-to-head in competitive 6s, including American team Froyotech and Australian team Jasmine Tea. Both teams were once again crowdfunded by the the best community in gaming history. Can't make it to Birmingham in time? No problem, the tournament will be streamed on Twitch, so tune in and catch all the action! "
+					"labelText"		"Item donations are now open for Tip of the Hats, an annual charity livestream event hosted by the Team Fortress 2 community. Cash donations will begin around about a week before the event takes place. The event streams at twitch.tv this September 16th at 11:00 PM CDT. Since it first took place in 2013, the event has boasted over 500,000 unique viewers and raised over $320,000 towards One Step Camp, a program that gives camp experiences and other programs throughout the year that allow children with cancer to just be kids. It's a worthy cause, and this year's event promises to be the most ambitious yet! Be sure to tune in, and don't forget to donate!"
 					"textAlignment"	"north-west"
 					"xpos"			"0"
 					"ypos"			"0"
