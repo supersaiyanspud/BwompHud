@@ -651,8 +651,8 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"autoresize"	"3"
-			"linespacing"	"26"
-			"linegap"		"4"
+			"linespacing"	"25"
+			"linegap"		"0"
 			//"show_columns"	"1"
 
 			if_large
